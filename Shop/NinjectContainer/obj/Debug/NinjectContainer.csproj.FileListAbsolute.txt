@@ -1,0 +1,176 @@
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\CarWashes\NinjectContainer\obj\Debug\NinjectContainer.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\CarWashes\NinjectContainer\bin\Debug\NinjectContainer.dll.config
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\CarWashes\NinjectContainer\bin\Debug\NinjectContainer.dll
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\CarWashes\NinjectContainer\bin\Debug\NinjectContainer.pdb
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\CarWashes\NinjectContainer\bin\Debug\DataAccess.dll
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\CarWashes\NinjectContainer\bin\Debug\Interfaces.dll
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\CarWashes\NinjectContainer\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\CarWashes\NinjectContainer\bin\Debug\Ninject.dll
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\CarWashes\NinjectContainer\bin\Debug\Ninject.Web.Common.dll
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\CarWashes\NinjectContainer\bin\Debug\ServiceInterfaces.dll
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\CarWashes\NinjectContainer\bin\Debug\ServicesDTO.dll
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\CarWashes\NinjectContainer\bin\Debug\WebActivatorEx.dll
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\CarWashes\NinjectContainer\bin\Debug\Context.dll
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\CarWashes\NinjectContainer\bin\Debug\CoreModels.dll
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\CarWashes\NinjectContainer\bin\Debug\AutoMapper.dll
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\CarWashes\NinjectContainer\bin\Debug\DTOmodels.dll
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\CarWashes\NinjectContainer\bin\Debug\EntityFramework.dll
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\CarWashes\NinjectContainer\bin\Debug\DataAccess.pdb
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\CarWashes\NinjectContainer\bin\Debug\Interfaces.pdb
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\CarWashes\NinjectContainer\bin\Debug\ServicesDTO.pdb
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\CarWashes\NinjectContainer\bin\Debug\ServiceInterfaces.pdb
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\CarWashes\NinjectContainer\bin\Debug\Ninject.xml
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\CarWashes\NinjectContainer\bin\Debug\Ninject.Web.Common.xml
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\CarWashes\NinjectContainer\bin\Debug\Context.pdb
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\CarWashes\NinjectContainer\bin\Debug\CoreModels.pdb
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\CarWashes\NinjectContainer\bin\Debug\AutoMapper.xml
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\CarWashes\NinjectContainer\bin\Debug\DTOmodels.pdb
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\CarWashes\NinjectContainer\bin\Debug\EntityFramework.xml
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\CarWashes\NinjectContainer\obj\Debug\NinjectContainer.dll
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\CarWashes\NinjectContainer\obj\Debug\NinjectContainer.pdb
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\CarWashes\NinjectContainer\bin\Debug\System.Web.Helpers.dll
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\CarWashes\NinjectContainer\bin\Debug\System.Web.Mvc.dll
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\CarWashes\NinjectContainer\bin\Debug\System.Web.Razor.dll
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\CarWashes\NinjectContainer\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\CarWashes\NinjectContainer\bin\Debug\System.Web.WebPages.dll
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\CarWashes\NinjectContainer\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\CarWashes\NinjectContainer\bin\Debug\System.Web.Helpers.xml
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\CarWashes\NinjectContainer\bin\Debug\System.Web.Mvc.xml
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\CarWashes\NinjectContainer\bin\Debug\System.Web.Razor.xml
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\CarWashes\NinjectContainer\bin\Debug\System.Web.WebPages.xml
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\CarWashes\NinjectContainer\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\CarWashes\NinjectContainer\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\AntonRez\Dropbox\CarWashes\NinjectContainer\bin\Debug\NinjectContainer.dll.config
+C:\Users\AntonRez\Dropbox\CarWashes\NinjectContainer\bin\Debug\NinjectContainer.dll
+C:\Users\AntonRez\Dropbox\CarWashes\NinjectContainer\bin\Debug\NinjectContainer.pdb
+C:\Users\AntonRez\Dropbox\CarWashes\NinjectContainer\bin\Debug\DataAccess.dll
+C:\Users\AntonRez\Dropbox\CarWashes\NinjectContainer\bin\Debug\DTOmodels.dll
+C:\Users\AntonRez\Dropbox\CarWashes\NinjectContainer\bin\Debug\Interfaces.dll
+C:\Users\AntonRez\Dropbox\CarWashes\NinjectContainer\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\AntonRez\Dropbox\CarWashes\NinjectContainer\bin\Debug\Ninject.dll
+C:\Users\AntonRez\Dropbox\CarWashes\NinjectContainer\bin\Debug\Ninject.Web.Common.dll
+C:\Users\AntonRez\Dropbox\CarWashes\NinjectContainer\bin\Debug\ServiceInterfaces.dll
+C:\Users\AntonRez\Dropbox\CarWashes\NinjectContainer\bin\Debug\ServicesDTO.dll
+C:\Users\AntonRez\Dropbox\CarWashes\NinjectContainer\bin\Debug\System.Web.Helpers.dll
+C:\Users\AntonRez\Dropbox\CarWashes\NinjectContainer\bin\Debug\System.Web.Mvc.dll
+C:\Users\AntonRez\Dropbox\CarWashes\NinjectContainer\bin\Debug\System.Web.Razor.dll
+C:\Users\AntonRez\Dropbox\CarWashes\NinjectContainer\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\AntonRez\Dropbox\CarWashes\NinjectContainer\bin\Debug\System.Web.WebPages.dll
+C:\Users\AntonRez\Dropbox\CarWashes\NinjectContainer\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\AntonRez\Dropbox\CarWashes\NinjectContainer\bin\Debug\WebActivatorEx.dll
+C:\Users\AntonRez\Dropbox\CarWashes\NinjectContainer\bin\Debug\Context.dll
+C:\Users\AntonRez\Dropbox\CarWashes\NinjectContainer\bin\Debug\CoreModels.dll
+C:\Users\AntonRez\Dropbox\CarWashes\NinjectContainer\bin\Debug\EntityFramework.dll
+C:\Users\AntonRez\Dropbox\CarWashes\NinjectContainer\bin\Debug\AutoMapper.dll
+C:\Users\AntonRez\Dropbox\CarWashes\NinjectContainer\bin\Debug\DataAccess.pdb
+C:\Users\AntonRez\Dropbox\CarWashes\NinjectContainer\bin\Debug\DTOmodels.pdb
+C:\Users\AntonRez\Dropbox\CarWashes\NinjectContainer\bin\Debug\Interfaces.pdb
+C:\Users\AntonRez\Dropbox\CarWashes\NinjectContainer\bin\Debug\ServicesDTO.pdb
+C:\Users\AntonRez\Dropbox\CarWashes\NinjectContainer\bin\Debug\ServiceInterfaces.pdb
+C:\Users\AntonRez\Dropbox\CarWashes\NinjectContainer\bin\Debug\Ninject.xml
+C:\Users\AntonRez\Dropbox\CarWashes\NinjectContainer\bin\Debug\Ninject.Web.Common.xml
+C:\Users\AntonRez\Dropbox\CarWashes\NinjectContainer\bin\Debug\System.Web.Helpers.xml
+C:\Users\AntonRez\Dropbox\CarWashes\NinjectContainer\bin\Debug\System.Web.Mvc.xml
+C:\Users\AntonRez\Dropbox\CarWashes\NinjectContainer\bin\Debug\System.Web.Razor.xml
+C:\Users\AntonRez\Dropbox\CarWashes\NinjectContainer\bin\Debug\System.Web.WebPages.xml
+C:\Users\AntonRez\Dropbox\CarWashes\NinjectContainer\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\AntonRez\Dropbox\CarWashes\NinjectContainer\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\AntonRez\Dropbox\CarWashes\NinjectContainer\bin\Debug\Context.pdb
+C:\Users\AntonRez\Dropbox\CarWashes\NinjectContainer\bin\Debug\CoreModels.pdb
+C:\Users\AntonRez\Dropbox\CarWashes\NinjectContainer\bin\Debug\EntityFramework.xml
+C:\Users\AntonRez\Dropbox\CarWashes\NinjectContainer\bin\Debug\AutoMapper.xml
+C:\Users\AntonRez\Dropbox\CarWashes\NinjectContainer\obj\Debug\NinjectContainer.csprojResolveAssemblyReference.cache
+C:\Users\AntonRez\Dropbox\CarWashes\NinjectContainer\obj\Debug\NinjectContainer.dll
+C:\Users\AntonRez\Dropbox\CarWashes\NinjectContainer\obj\Debug\NinjectContainer.pdb
+D:\Антон\Программирование\CarWash\CarWashes\NinjectContainer\bin\Debug\NinjectContainer.dll.config
+D:\Антон\Программирование\CarWash\CarWashes\NinjectContainer\bin\Debug\NinjectContainer.dll
+D:\Антон\Программирование\CarWash\CarWashes\NinjectContainer\bin\Debug\NinjectContainer.pdb
+D:\Антон\Программирование\CarWash\CarWashes\NinjectContainer\bin\Debug\DataAccess.dll
+D:\Антон\Программирование\CarWash\CarWashes\NinjectContainer\bin\Debug\DTOmodels.dll
+D:\Антон\Программирование\CarWash\CarWashes\NinjectContainer\bin\Debug\Interfaces.dll
+D:\Антон\Программирование\CarWash\CarWashes\NinjectContainer\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Антон\Программирование\CarWash\CarWashes\NinjectContainer\bin\Debug\Ninject.dll
+D:\Антон\Программирование\CarWash\CarWashes\NinjectContainer\bin\Debug\Ninject.Web.Common.dll
+D:\Антон\Программирование\CarWash\CarWashes\NinjectContainer\bin\Debug\ServiceInterfaces.dll
+D:\Антон\Программирование\CarWash\CarWashes\NinjectContainer\bin\Debug\ServicesDTO.dll
+D:\Антон\Программирование\CarWash\CarWashes\NinjectContainer\bin\Debug\System.Web.Helpers.dll
+D:\Антон\Программирование\CarWash\CarWashes\NinjectContainer\bin\Debug\System.Web.Mvc.dll
+D:\Антон\Программирование\CarWash\CarWashes\NinjectContainer\bin\Debug\System.Web.Razor.dll
+D:\Антон\Программирование\CarWash\CarWashes\NinjectContainer\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Антон\Программирование\CarWash\CarWashes\NinjectContainer\bin\Debug\System.Web.WebPages.dll
+D:\Антон\Программирование\CarWash\CarWashes\NinjectContainer\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Антон\Программирование\CarWash\CarWashes\NinjectContainer\bin\Debug\WebActivatorEx.dll
+D:\Антон\Программирование\CarWash\CarWashes\NinjectContainer\bin\Debug\Context.dll
+D:\Антон\Программирование\CarWash\CarWashes\NinjectContainer\bin\Debug\CoreModels.dll
+D:\Антон\Программирование\CarWash\CarWashes\NinjectContainer\bin\Debug\EntityFramework.dll
+D:\Антон\Программирование\CarWash\CarWashes\NinjectContainer\bin\Debug\AutoMapper.dll
+D:\Антон\Программирование\CarWash\CarWashes\NinjectContainer\bin\Debug\DataAccess.pdb
+D:\Антон\Программирование\CarWash\CarWashes\NinjectContainer\bin\Debug\DTOmodels.pdb
+D:\Антон\Программирование\CarWash\CarWashes\NinjectContainer\bin\Debug\Interfaces.pdb
+D:\Антон\Программирование\CarWash\CarWashes\NinjectContainer\bin\Debug\ServicesDTO.pdb
+D:\Антон\Программирование\CarWash\CarWashes\NinjectContainer\bin\Debug\ServiceInterfaces.pdb
+D:\Антон\Программирование\CarWash\CarWashes\NinjectContainer\bin\Debug\Ninject.xml
+D:\Антон\Программирование\CarWash\CarWashes\NinjectContainer\bin\Debug\Ninject.Web.Common.xml
+D:\Антон\Программирование\CarWash\CarWashes\NinjectContainer\bin\Debug\System.Web.Helpers.xml
+D:\Антон\Программирование\CarWash\CarWashes\NinjectContainer\bin\Debug\System.Web.Mvc.xml
+D:\Антон\Программирование\CarWash\CarWashes\NinjectContainer\bin\Debug\System.Web.Razor.xml
+D:\Антон\Программирование\CarWash\CarWashes\NinjectContainer\bin\Debug\System.Web.WebPages.xml
+D:\Антон\Программирование\CarWash\CarWashes\NinjectContainer\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Антон\Программирование\CarWash\CarWashes\NinjectContainer\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Антон\Программирование\CarWash\CarWashes\NinjectContainer\bin\Debug\Context.pdb
+D:\Антон\Программирование\CarWash\CarWashes\NinjectContainer\bin\Debug\CoreModels.pdb
+D:\Антон\Программирование\CarWash\CarWashes\NinjectContainer\bin\Debug\EntityFramework.xml
+D:\Антон\Программирование\CarWash\CarWashes\NinjectContainer\bin\Debug\AutoMapper.xml
+D:\Антон\Программирование\CarWash\CarWashes\NinjectContainer\obj\Debug\NinjectContainer.csprojResolveAssemblyReference.cache
+D:\Антон\Программирование\CarWash\CarWashes\NinjectContainer\obj\Debug\NinjectContainer.dll
+D:\Антон\Программирование\CarWash\CarWashes\NinjectContainer\obj\Debug\NinjectContainer.pdb
+D:\Антон\Программирование\CarWash\CarWashes\NinjectContainer\bin\Debug\AutoMapperConfig.dll
+D:\Антон\Программирование\CarWash\CarWashes\NinjectContainer\bin\Debug\ViewModels.dll
+D:\Антон\Программирование\CarWash\CarWashes\NinjectContainer\bin\Debug\AutoMapperConfig.pdb
+D:\Антон\Программирование\CarWash\CarWashes\NinjectContainer\bin\Debug\ViewModels.pdb
+D:\Антон\Программирование\ShopForDiana\CarWashes\NinjectContainer\bin\Debug\NinjectContainer.dll.config
+D:\Антон\Программирование\ShopForDiana\CarWashes\NinjectContainer\bin\Debug\NinjectContainer.dll
+D:\Антон\Программирование\ShopForDiana\CarWashes\NinjectContainer\bin\Debug\NinjectContainer.pdb
+D:\Антон\Программирование\ShopForDiana\CarWashes\NinjectContainer\bin\Debug\DataAccess.dll
+D:\Антон\Программирование\ShopForDiana\CarWashes\NinjectContainer\bin\Debug\DTOmodels.dll
+D:\Антон\Программирование\ShopForDiana\CarWashes\NinjectContainer\bin\Debug\Interfaces.dll
+D:\Антон\Программирование\ShopForDiana\CarWashes\NinjectContainer\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Антон\Программирование\ShopForDiana\CarWashes\NinjectContainer\bin\Debug\Ninject.dll
+D:\Антон\Программирование\ShopForDiana\CarWashes\NinjectContainer\bin\Debug\Ninject.Web.Common.dll
+D:\Антон\Программирование\ShopForDiana\CarWashes\NinjectContainer\bin\Debug\ServiceInterfaces.dll
+D:\Антон\Программирование\ShopForDiana\CarWashes\NinjectContainer\bin\Debug\ServicesDTO.dll
+D:\Антон\Программирование\ShopForDiana\CarWashes\NinjectContainer\bin\Debug\System.Web.Helpers.dll
+D:\Антон\Программирование\ShopForDiana\CarWashes\NinjectContainer\bin\Debug\System.Web.Mvc.dll
+D:\Антон\Программирование\ShopForDiana\CarWashes\NinjectContainer\bin\Debug\System.Web.Razor.dll
+D:\Антон\Программирование\ShopForDiana\CarWashes\NinjectContainer\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Антон\Программирование\ShopForDiana\CarWashes\NinjectContainer\bin\Debug\System.Web.WebPages.dll
+D:\Антон\Программирование\ShopForDiana\CarWashes\NinjectContainer\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Антон\Программирование\ShopForDiana\CarWashes\NinjectContainer\bin\Debug\WebActivatorEx.dll
+D:\Антон\Программирование\ShopForDiana\CarWashes\NinjectContainer\bin\Debug\Context.dll
+D:\Антон\Программирование\ShopForDiana\CarWashes\NinjectContainer\bin\Debug\CoreModels.dll
+D:\Антон\Программирование\ShopForDiana\CarWashes\NinjectContainer\bin\Debug\EntityFramework.dll
+D:\Антон\Программирование\ShopForDiana\CarWashes\NinjectContainer\bin\Debug\AutoMapper.dll
+D:\Антон\Программирование\ShopForDiana\CarWashes\NinjectContainer\bin\Debug\AutoMapperConfig.dll
+D:\Антон\Программирование\ShopForDiana\CarWashes\NinjectContainer\bin\Debug\ViewModels.dll
+D:\Антон\Программирование\ShopForDiana\CarWashes\NinjectContainer\bin\Debug\DataAccess.pdb
+D:\Антон\Программирование\ShopForDiana\CarWashes\NinjectContainer\bin\Debug\DTOmodels.pdb
+D:\Антон\Программирование\ShopForDiana\CarWashes\NinjectContainer\bin\Debug\Interfaces.pdb
+D:\Антон\Программирование\ShopForDiana\CarWashes\NinjectContainer\bin\Debug\ServicesDTO.pdb
+D:\Антон\Программирование\ShopForDiana\CarWashes\NinjectContainer\bin\Debug\ServiceInterfaces.pdb
+D:\Антон\Программирование\ShopForDiana\CarWashes\NinjectContainer\bin\Debug\Ninject.xml
+D:\Антон\Программирование\ShopForDiana\CarWashes\NinjectContainer\bin\Debug\Ninject.Web.Common.xml
+D:\Антон\Программирование\ShopForDiana\CarWashes\NinjectContainer\bin\Debug\System.Web.Helpers.xml
+D:\Антон\Программирование\ShopForDiana\CarWashes\NinjectContainer\bin\Debug\System.Web.Mvc.xml
+D:\Антон\Программирование\ShopForDiana\CarWashes\NinjectContainer\bin\Debug\System.Web.Razor.xml
+D:\Антон\Программирование\ShopForDiana\CarWashes\NinjectContainer\bin\Debug\System.Web.WebPages.xml
+D:\Антон\Программирование\ShopForDiana\CarWashes\NinjectContainer\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Антон\Программирование\ShopForDiana\CarWashes\NinjectContainer\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Антон\Программирование\ShopForDiana\CarWashes\NinjectContainer\bin\Debug\Context.pdb
+D:\Антон\Программирование\ShopForDiana\CarWashes\NinjectContainer\bin\Debug\CoreModels.pdb
+D:\Антон\Программирование\ShopForDiana\CarWashes\NinjectContainer\bin\Debug\EntityFramework.xml
+D:\Антон\Программирование\ShopForDiana\CarWashes\NinjectContainer\bin\Debug\AutoMapper.xml
+D:\Антон\Программирование\ShopForDiana\CarWashes\NinjectContainer\bin\Debug\AutoMapperConfig.pdb
+D:\Антон\Программирование\ShopForDiana\CarWashes\NinjectContainer\bin\Debug\ViewModels.pdb
+D:\Антон\Программирование\ShopForDiana\CarWashes\NinjectContainer\obj\Debug\NinjectContainer.csprojResolveAssemblyReference.cache
+D:\Антон\Программирование\ShopForDiana\CarWashes\NinjectContainer\obj\Debug\NinjectContainer.dll
+D:\Антон\Программирование\ShopForDiana\CarWashes\NinjectContainer\obj\Debug\NinjectContainer.pdb

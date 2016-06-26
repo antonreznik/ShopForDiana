@@ -1,8 +1,0 @@
-c:\users\asus\documents\visual studio 2015\Projects\CarWashes\Services\bin\Debug\ServiceInterfaces.dll
-c:\users\asus\documents\visual studio 2015\Projects\CarWashes\Services\bin\Debug\ServiceInterfaces.pdb
-c:\users\asus\documents\visual studio 2015\Projects\CarWashes\Services\obj\Debug\ServiceInterfaces.dll
-c:\users\asus\documents\visual studio 2015\Projects\CarWashes\Services\obj\Debug\ServiceInterfaces.pdb
-D:\Антон\Программирование\CarWash\CarWashes\Services\bin\Debug\ServiceInterfaces.dll
-D:\Антон\Программирование\CarWash\CarWashes\Services\bin\Debug\ServiceInterfaces.pdb
-D:\Антон\Программирование\CarWash\CarWashes\Services\obj\Debug\ServiceInterfaces.dll
-D:\Антон\Программирование\CarWash\CarWashes\Services\obj\Debug\ServiceInterfaces.pdb
