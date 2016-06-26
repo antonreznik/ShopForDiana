@@ -1,0 +1,221 @@
+c:\users\asus\documents\visual studio 2015\Projects\CarWashes\CarWashes\bin\ApplicationInsights.config
+c:\users\asus\documents\visual studio 2015\Projects\CarWashes\CarWashes\bin\roslyn\csc.exe
+c:\users\asus\documents\visual studio 2015\Projects\CarWashes\CarWashes\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\asus\documents\visual studio 2015\Projects\CarWashes\CarWashes\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\asus\documents\visual studio 2015\Projects\CarWashes\CarWashes\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\asus\documents\visual studio 2015\Projects\CarWashes\CarWashes\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\asus\documents\visual studio 2015\Projects\CarWashes\CarWashes\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\asus\documents\visual studio 2015\Projects\CarWashes\CarWashes\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\asus\documents\visual studio 2015\Projects\CarWashes\CarWashes\bin\roslyn\System.Collections.Immutable.dll
+c:\users\asus\documents\visual studio 2015\Projects\CarWashes\CarWashes\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\asus\documents\visual studio 2015\Projects\CarWashes\CarWashes\bin\roslyn\vbc.exe
+c:\users\asus\documents\visual studio 2015\Projects\CarWashes\CarWashes\bin\roslyn\VBCSCompiler.exe
+c:\users\asus\documents\visual studio 2015\Projects\CarWashes\CarWashes\bin\roslyn\VBCSCompiler.exe.config
+c:\users\asus\documents\visual studio 2015\Projects\CarWashes\CarWashes\bin\CarWashes.dll.config
+c:\users\asus\documents\visual studio 2015\Projects\CarWashes\CarWashes\bin\CarWashes.dll
+c:\users\asus\documents\visual studio 2015\Projects\CarWashes\CarWashes\bin\CarWashes.pdb
+c:\users\asus\documents\visual studio 2015\Projects\CarWashes\CarWashes\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\asus\documents\visual studio 2015\Projects\CarWashes\CarWashes\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\asus\documents\visual studio 2015\Projects\CarWashes\CarWashes\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\asus\documents\visual studio 2015\Projects\CarWashes\CarWashes\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\asus\documents\visual studio 2015\Projects\CarWashes\CarWashes\bin\Microsoft.AI.Web.dll
+c:\users\asus\documents\visual studio 2015\Projects\CarWashes\CarWashes\bin\Microsoft.AI.WindowsServer.dll
+c:\users\asus\documents\visual studio 2015\Projects\CarWashes\CarWashes\bin\Microsoft.ApplicationInsights.dll
+c:\users\asus\documents\visual studio 2015\Projects\CarWashes\CarWashes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\asus\documents\visual studio 2015\Projects\CarWashes\CarWashes\bin\Microsoft.Web.Infrastructure.dll
+c:\users\asus\documents\visual studio 2015\Projects\CarWashes\CarWashes\bin\System.Web.Helpers.dll
+c:\users\asus\documents\visual studio 2015\Projects\CarWashes\CarWashes\bin\System.Web.Mvc.dll
+c:\users\asus\documents\visual studio 2015\Projects\CarWashes\CarWashes\bin\System.Web.Razor.dll
+c:\users\asus\documents\visual studio 2015\Projects\CarWashes\CarWashes\bin\System.Web.Webpages.Deployment.dll
+c:\users\asus\documents\visual studio 2015\Projects\CarWashes\CarWashes\bin\System.Web.Webpages.dll
+c:\users\asus\documents\visual studio 2015\Projects\CarWashes\CarWashes\bin\System.Web.Webpages.Razor.dll
+c:\users\asus\documents\visual studio 2015\Projects\CarWashes\CarWashes\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\asus\documents\visual studio 2015\Projects\CarWashes\CarWashes\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\asus\documents\visual studio 2015\Projects\CarWashes\CarWashes\bin\Microsoft.AI.Web.xml
+c:\users\asus\documents\visual studio 2015\Projects\CarWashes\CarWashes\bin\Microsoft.AI.WindowsServer.xml
+c:\users\asus\documents\visual studio 2015\Projects\CarWashes\CarWashes\bin\Microsoft.ApplicationInsights.xml
+c:\users\asus\documents\visual studio 2015\Projects\CarWashes\CarWashes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\asus\documents\visual studio 2015\Projects\CarWashes\CarWashes\bin\System.Web.Razor.xml
+c:\users\asus\documents\visual studio 2015\Projects\CarWashes\CarWashes\bin\System.Web.Webpages.xml
+c:\users\asus\documents\visual studio 2015\Projects\CarWashes\CarWashes\bin\System.Web.Webpages.Deployment.xml
+c:\users\asus\documents\visual studio 2015\Projects\CarWashes\CarWashes\bin\System.Web.Webpages.Razor.xml
+c:\users\asus\documents\visual studio 2015\Projects\CarWashes\CarWashes\bin\System.Web.Helpers.xml
+c:\users\asus\documents\visual studio 2015\Projects\CarWashes\CarWashes\bin\System.Web.Mvc.xml
+c:\users\asus\documents\visual studio 2015\Projects\CarWashes\CarWashes\obj\Debug\CarWashes.dll
+c:\users\asus\documents\visual studio 2015\Projects\CarWashes\CarWashes\obj\Debug\CarWashes.pdb
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\CarWashes\CarWashes\bin\AutoMapper.dll
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\CarWashes\CarWashes\bin\DTOmodels.dll
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\CarWashes\CarWashes\bin\NinjectContainer.dll
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\CarWashes\CarWashes\bin\ServiceInterfaces.dll
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\CarWashes\CarWashes\bin\WebActivatorEx.dll
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\CarWashes\CarWashes\bin\Ninject.dll
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\CarWashes\CarWashes\bin\Ninject.Web.Common.dll
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\CarWashes\CarWashes\bin\Interfaces.dll
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\CarWashes\CarWashes\bin\DataAccess.dll
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\CarWashes\CarWashes\bin\CoreModels.dll
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\CarWashes\CarWashes\bin\Context.dll
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\CarWashes\CarWashes\bin\EntityFramework.dll
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\CarWashes\CarWashes\bin\DTOmodels.pdb
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\CarWashes\CarWashes\bin\NinjectContainer.pdb
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\CarWashes\CarWashes\bin\ServiceInterfaces.pdb
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\CarWashes\CarWashes\bin\AutoMapper.xml
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\CarWashes\CarWashes\bin\Ninject.xml
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\CarWashes\CarWashes\bin\Ninject.Web.Common.xml
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\CarWashes\CarWashes\bin\Interfaces.pdb
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\CarWashes\CarWashes\bin\DataAccess.pdb
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\CarWashes\CarWashes\bin\CoreModels.pdb
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\CarWashes\CarWashes\bin\Context.pdb
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\CarWashes\CarWashes\bin\EntityFramework.xml
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\CarWashes\CarWashes\obj\Debug\CarWashes.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\CarWashes\CarWashes\bin\ServicesDTO.dll
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\CarWashes\CarWashes\bin\ServicesDTO.pdb
+C:\Users\AntonRez\Dropbox\CarWashes\CarWashes\bin\ApplicationInsights.config
+C:\Users\AntonRez\Dropbox\CarWashes\CarWashes\bin\roslyn\csc.exe
+C:\Users\AntonRez\Dropbox\CarWashes\CarWashes\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\AntonRez\Dropbox\CarWashes\CarWashes\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\AntonRez\Dropbox\CarWashes\CarWashes\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\AntonRez\Dropbox\CarWashes\CarWashes\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\AntonRez\Dropbox\CarWashes\CarWashes\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\AntonRez\Dropbox\CarWashes\CarWashes\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\AntonRez\Dropbox\CarWashes\CarWashes\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\AntonRez\Dropbox\CarWashes\CarWashes\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\AntonRez\Dropbox\CarWashes\CarWashes\bin\roslyn\vbc.exe
+C:\Users\AntonRez\Dropbox\CarWashes\CarWashes\bin\roslyn\VBCSCompiler.exe
+C:\Users\AntonRez\Dropbox\CarWashes\CarWashes\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\AntonRez\Dropbox\CarWashes\CarWashes\bin\CarWashes.dll.config
+C:\Users\AntonRez\Dropbox\CarWashes\CarWashes\bin\CarWashes.dll
+C:\Users\AntonRez\Dropbox\CarWashes\CarWashes\bin\CarWashes.pdb
+C:\Users\AntonRez\Dropbox\CarWashes\CarWashes\bin\AutoMapper.dll
+C:\Users\AntonRez\Dropbox\CarWashes\CarWashes\bin\DTOmodels.dll
+C:\Users\AntonRez\Dropbox\CarWashes\CarWashes\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\AntonRez\Dropbox\CarWashes\CarWashes\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\AntonRez\Dropbox\CarWashes\CarWashes\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\AntonRez\Dropbox\CarWashes\CarWashes\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\AntonRez\Dropbox\CarWashes\CarWashes\bin\Microsoft.AI.Web.dll
+C:\Users\AntonRez\Dropbox\CarWashes\CarWashes\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\AntonRez\Dropbox\CarWashes\CarWashes\bin\Microsoft.ApplicationInsights.dll
+C:\Users\AntonRez\Dropbox\CarWashes\CarWashes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\AntonRez\Dropbox\CarWashes\CarWashes\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\AntonRez\Dropbox\CarWashes\CarWashes\bin\NinjectContainer.dll
+C:\Users\AntonRez\Dropbox\CarWashes\CarWashes\bin\ServiceInterfaces.dll
+C:\Users\AntonRez\Dropbox\CarWashes\CarWashes\bin\System.Web.Helpers.dll
+C:\Users\AntonRez\Dropbox\CarWashes\CarWashes\bin\System.Web.Mvc.dll
+C:\Users\AntonRez\Dropbox\CarWashes\CarWashes\bin\System.Web.Razor.dll
+C:\Users\AntonRez\Dropbox\CarWashes\CarWashes\bin\System.Web.Webpages.Deployment.dll
+C:\Users\AntonRez\Dropbox\CarWashes\CarWashes\bin\System.Web.Webpages.dll
+C:\Users\AntonRez\Dropbox\CarWashes\CarWashes\bin\System.Web.Webpages.Razor.dll
+C:\Users\AntonRez\Dropbox\CarWashes\CarWashes\bin\WebActivatorEx.dll
+C:\Users\AntonRez\Dropbox\CarWashes\CarWashes\bin\Ninject.dll
+C:\Users\AntonRez\Dropbox\CarWashes\CarWashes\bin\Ninject.Web.Common.dll
+C:\Users\AntonRez\Dropbox\CarWashes\CarWashes\bin\Interfaces.dll
+C:\Users\AntonRez\Dropbox\CarWashes\CarWashes\bin\DataAccess.dll
+C:\Users\AntonRez\Dropbox\CarWashes\CarWashes\bin\ServicesDTO.dll
+C:\Users\AntonRez\Dropbox\CarWashes\CarWashes\bin\CoreModels.dll
+C:\Users\AntonRez\Dropbox\CarWashes\CarWashes\bin\Context.dll
+C:\Users\AntonRez\Dropbox\CarWashes\CarWashes\bin\EntityFramework.dll
+C:\Users\AntonRez\Dropbox\CarWashes\CarWashes\bin\DTOmodels.pdb
+C:\Users\AntonRez\Dropbox\CarWashes\CarWashes\bin\NinjectContainer.pdb
+C:\Users\AntonRez\Dropbox\CarWashes\CarWashes\bin\ServiceInterfaces.pdb
+C:\Users\AntonRez\Dropbox\CarWashes\CarWashes\bin\AutoMapper.xml
+C:\Users\AntonRez\Dropbox\CarWashes\CarWashes\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\AntonRez\Dropbox\CarWashes\CarWashes\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\AntonRez\Dropbox\CarWashes\CarWashes\bin\Microsoft.AI.Web.xml
+C:\Users\AntonRez\Dropbox\CarWashes\CarWashes\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\AntonRez\Dropbox\CarWashes\CarWashes\bin\Microsoft.ApplicationInsights.xml
+C:\Users\AntonRez\Dropbox\CarWashes\CarWashes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\AntonRez\Dropbox\CarWashes\CarWashes\bin\System.Web.Razor.xml
+C:\Users\AntonRez\Dropbox\CarWashes\CarWashes\bin\System.Web.Webpages.xml
+C:\Users\AntonRez\Dropbox\CarWashes\CarWashes\bin\System.Web.Webpages.Deployment.xml
+C:\Users\AntonRez\Dropbox\CarWashes\CarWashes\bin\System.Web.Webpages.Razor.xml
+C:\Users\AntonRez\Dropbox\CarWashes\CarWashes\bin\System.Web.Helpers.xml
+C:\Users\AntonRez\Dropbox\CarWashes\CarWashes\bin\System.Web.Mvc.xml
+C:\Users\AntonRez\Dropbox\CarWashes\CarWashes\bin\Ninject.xml
+C:\Users\AntonRez\Dropbox\CarWashes\CarWashes\bin\Ninject.Web.Common.xml
+C:\Users\AntonRez\Dropbox\CarWashes\CarWashes\bin\Interfaces.pdb
+C:\Users\AntonRez\Dropbox\CarWashes\CarWashes\bin\DataAccess.pdb
+C:\Users\AntonRez\Dropbox\CarWashes\CarWashes\bin\ServicesDTO.pdb
+C:\Users\AntonRez\Dropbox\CarWashes\CarWashes\bin\CoreModels.pdb
+C:\Users\AntonRez\Dropbox\CarWashes\CarWashes\bin\Context.pdb
+C:\Users\AntonRez\Dropbox\CarWashes\CarWashes\bin\EntityFramework.xml
+C:\Users\AntonRez\Dropbox\CarWashes\CarWashes\obj\Debug\CarWashes.csprojResolveAssemblyReference.cache
+C:\Users\AntonRez\Dropbox\CarWashes\CarWashes\obj\Debug\CarWashes.dll
+C:\Users\AntonRez\Dropbox\CarWashes\CarWashes\obj\Debug\CarWashes.pdb
+C:\Users\AntonRez\Dropbox\CarWashes\CarWashes\bin\EntityFramework.SqlServer.dll
+C:\Users\AntonRez\Dropbox\CarWashes\CarWashes\bin\EntityFramework.SqlServer.xml
+D:\Антон\Программирование\CarWash\CarWashes\CarWashes\obj\Debug\CarWashes.csprojResolveAssemblyReference.cache
+D:\Антон\Программирование\CarWash\CarWashes\CarWashes\obj\Debug\CarWashes.dll
+D:\Антон\Программирование\CarWash\CarWashes\CarWashes\obj\Debug\CarWashes.pdb
+D:\Антон\Программирование\CarWash\CarWashes\CarWashes\bin\ApplicationInsights.config
+D:\Антон\Программирование\CarWash\CarWashes\CarWashes\bin\roslyn\csc.exe
+D:\Антон\Программирование\CarWash\CarWashes\CarWashes\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Антон\Программирование\CarWash\CarWashes\CarWashes\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Антон\Программирование\CarWash\CarWashes\CarWashes\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Антон\Программирование\CarWash\CarWashes\CarWashes\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Антон\Программирование\CarWash\CarWashes\CarWashes\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Антон\Программирование\CarWash\CarWashes\CarWashes\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Антон\Программирование\CarWash\CarWashes\CarWashes\bin\roslyn\System.Collections.Immutable.dll
+D:\Антон\Программирование\CarWash\CarWashes\CarWashes\bin\roslyn\System.Reflection.Metadata.dll
+D:\Антон\Программирование\CarWash\CarWashes\CarWashes\bin\roslyn\vbc.exe
+D:\Антон\Программирование\CarWash\CarWashes\CarWashes\bin\roslyn\VBCSCompiler.exe
+D:\Антон\Программирование\CarWash\CarWashes\CarWashes\bin\roslyn\VBCSCompiler.exe.config
+D:\Антон\Программирование\CarWash\CarWashes\CarWashes\bin\CarWashes.dll.config
+D:\Антон\Программирование\CarWash\CarWashes\CarWashes\bin\CarWashes.dll
+D:\Антон\Программирование\CarWash\CarWashes\CarWashes\bin\CarWashes.pdb
+D:\Антон\Программирование\CarWash\CarWashes\CarWashes\bin\AutoMapper.dll
+D:\Антон\Программирование\CarWash\CarWashes\CarWashes\bin\DTOmodels.dll
+D:\Антон\Программирование\CarWash\CarWashes\CarWashes\bin\EntityFramework.dll
+D:\Антон\Программирование\CarWash\CarWashes\CarWashes\bin\EntityFramework.SqlServer.dll
+D:\Антон\Программирование\CarWash\CarWashes\CarWashes\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Антон\Программирование\CarWash\CarWashes\CarWashes\bin\Microsoft.AI.DependencyCollector.dll
+D:\Антон\Программирование\CarWash\CarWashes\CarWashes\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Антон\Программирование\CarWash\CarWashes\CarWashes\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Антон\Программирование\CarWash\CarWashes\CarWashes\bin\Microsoft.AI.Web.dll
+D:\Антон\Программирование\CarWash\CarWashes\CarWashes\bin\Microsoft.AI.WindowsServer.dll
+D:\Антон\Программирование\CarWash\CarWashes\CarWashes\bin\Microsoft.ApplicationInsights.dll
+D:\Антон\Программирование\CarWash\CarWashes\CarWashes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Антон\Программирование\CarWash\CarWashes\CarWashes\bin\Microsoft.Web.Infrastructure.dll
+D:\Антон\Программирование\CarWash\CarWashes\CarWashes\bin\NinjectContainer.dll
+D:\Антон\Программирование\CarWash\CarWashes\CarWashes\bin\ServiceInterfaces.dll
+D:\Антон\Программирование\CarWash\CarWashes\CarWashes\bin\System.Web.Helpers.dll
+D:\Антон\Программирование\CarWash\CarWashes\CarWashes\bin\System.Web.Mvc.dll
+D:\Антон\Программирование\CarWash\CarWashes\CarWashes\bin\System.Web.Razor.dll
+D:\Антон\Программирование\CarWash\CarWashes\CarWashes\bin\System.Web.Webpages.Deployment.dll
+D:\Антон\Программирование\CarWash\CarWashes\CarWashes\bin\System.Web.Webpages.dll
+D:\Антон\Программирование\CarWash\CarWashes\CarWashes\bin\System.Web.Webpages.Razor.dll
+D:\Антон\Программирование\CarWash\CarWashes\CarWashes\bin\ViewModels.dll
+D:\Антон\Программирование\CarWash\CarWashes\CarWashes\bin\WebActivatorEx.dll
+D:\Антон\Программирование\CarWash\CarWashes\CarWashes\bin\Ninject.dll
+D:\Антон\Программирование\CarWash\CarWashes\CarWashes\bin\Ninject.Web.Common.dll
+D:\Антон\Программирование\CarWash\CarWashes\CarWashes\bin\Interfaces.dll
+D:\Антон\Программирование\CarWash\CarWashes\CarWashes\bin\DataAccess.dll
+D:\Антон\Программирование\CarWash\CarWashes\CarWashes\bin\ServicesDTO.dll
+D:\Антон\Программирование\CarWash\CarWashes\CarWashes\bin\CoreModels.dll
+D:\Антон\Программирование\CarWash\CarWashes\CarWashes\bin\Context.dll
+D:\Антон\Программирование\CarWash\CarWashes\CarWashes\bin\DTOmodels.pdb
+D:\Антон\Программирование\CarWash\CarWashes\CarWashes\bin\NinjectContainer.pdb
+D:\Антон\Программирование\CarWash\CarWashes\CarWashes\bin\ServiceInterfaces.pdb
+D:\Антон\Программирование\CarWash\CarWashes\CarWashes\bin\ViewModels.pdb
+D:\Антон\Программирование\CarWash\CarWashes\CarWashes\bin\AutoMapper.xml
+D:\Антон\Программирование\CarWash\CarWashes\CarWashes\bin\EntityFramework.xml
+D:\Антон\Программирование\CarWash\CarWashes\CarWashes\bin\EntityFramework.SqlServer.xml
+D:\Антон\Программирование\CarWash\CarWashes\CarWashes\bin\Microsoft.AI.DependencyCollector.xml
+D:\Антон\Программирование\CarWash\CarWashes\CarWashes\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Антон\Программирование\CarWash\CarWashes\CarWashes\bin\Microsoft.AI.Web.xml
+D:\Антон\Программирование\CarWash\CarWashes\CarWashes\bin\Microsoft.AI.WindowsServer.xml
+D:\Антон\Программирование\CarWash\CarWashes\CarWashes\bin\Microsoft.ApplicationInsights.xml
+D:\Антон\Программирование\CarWash\CarWashes\CarWashes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Антон\Программирование\CarWash\CarWashes\CarWashes\bin\System.Web.Razor.xml
+D:\Антон\Программирование\CarWash\CarWashes\CarWashes\bin\System.Web.Webpages.xml
+D:\Антон\Программирование\CarWash\CarWashes\CarWashes\bin\System.Web.Webpages.Deployment.xml
+D:\Антон\Программирование\CarWash\CarWashes\CarWashes\bin\System.Web.Webpages.Razor.xml
+D:\Антон\Программирование\CarWash\CarWashes\CarWashes\bin\System.Web.Helpers.xml
+D:\Антон\Программирование\CarWash\CarWashes\CarWashes\bin\System.Web.Mvc.xml
+D:\Антон\Программирование\CarWash\CarWashes\CarWashes\bin\Ninject.xml
+D:\Антон\Программирование\CarWash\CarWashes\CarWashes\bin\Ninject.Web.Common.xml
+D:\Антон\Программирование\CarWash\CarWashes\CarWashes\bin\Interfaces.pdb
+D:\Антон\Программирование\CarWash\CarWashes\CarWashes\bin\DataAccess.pdb
+D:\Антон\Программирование\CarWash\CarWashes\CarWashes\bin\ServicesDTO.pdb
+D:\Антон\Программирование\CarWash\CarWashes\CarWashes\bin\CoreModels.pdb
+D:\Антон\Программирование\CarWash\CarWashes\CarWashes\bin\Context.pdb
+D:\Антон\Программирование\CarWash\CarWashes\CarWashes\bin\AutoMapperConfig.dll
+D:\Антон\Программирование\CarWash\CarWashes\CarWashes\bin\AutoMapperConfig.pdb

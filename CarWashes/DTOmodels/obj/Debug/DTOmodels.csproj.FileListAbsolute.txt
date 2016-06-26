@@ -1,0 +1,9 @@
+c:\users\asus\documents\visual studio 2015\Projects\CarWashes\DTOmodels\bin\Debug\DTOmodels.dll
+c:\users\asus\documents\visual studio 2015\Projects\CarWashes\DTOmodels\bin\Debug\DTOmodels.pdb
+c:\users\asus\documents\visual studio 2015\Projects\CarWashes\DTOmodels\obj\Debug\DTOmodels.dll
+c:\users\asus\documents\visual studio 2015\Projects\CarWashes\DTOmodels\obj\Debug\DTOmodels.pdb
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\CarWashes\DTOmodels\obj\Debug\DTOmodels.csprojResolveAssemblyReference.cache
+D:\Антон\Программирование\CarWash\CarWashes\DTOmodels\bin\Debug\DTOmodels.dll
+D:\Антон\Программирование\CarWash\CarWashes\DTOmodels\bin\Debug\DTOmodels.pdb
+D:\Антон\Программирование\CarWash\CarWashes\DTOmodels\obj\Debug\DTOmodels.dll
+D:\Антон\Программирование\CarWash\CarWashes\DTOmodels\obj\Debug\DTOmodels.pdb

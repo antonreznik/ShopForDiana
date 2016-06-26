@@ -1,0 +1,45 @@
+c:\users\asus\documents\visual studio 2015\Projects\CarWashes\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2015\Projects\CarWashes\DataAccess\bin\Debug\DataAccess.dll
+c:\users\asus\documents\visual studio 2015\Projects\CarWashes\DataAccess\bin\Debug\DataAccess.pdb
+c:\users\asus\documents\visual studio 2015\Projects\CarWashes\DataAccess\bin\Debug\Context.dll
+c:\users\asus\documents\visual studio 2015\Projects\CarWashes\DataAccess\bin\Debug\CoreModels.dll
+c:\users\asus\documents\visual studio 2015\Projects\CarWashes\DataAccess\bin\Debug\Interfaces.dll
+c:\users\asus\documents\visual studio 2015\Projects\CarWashes\DataAccess\bin\Debug\EntityFramework.dll
+c:\users\asus\documents\visual studio 2015\Projects\CarWashes\DataAccess\bin\Debug\Context.pdb
+c:\users\asus\documents\visual studio 2015\Projects\CarWashes\DataAccess\bin\Debug\CoreModels.pdb
+c:\users\asus\documents\visual studio 2015\Projects\CarWashes\DataAccess\bin\Debug\Interfaces.pdb
+c:\users\asus\documents\visual studio 2015\Projects\CarWashes\DataAccess\bin\Debug\EntityFramework.xml
+c:\users\asus\documents\visual studio 2015\Projects\CarWashes\DataAccess\obj\Debug\DataAccess.dll
+c:\users\asus\documents\visual studio 2015\Projects\CarWashes\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\AntonRez\Dropbox\CarWashes\DataAccess\bin\Debug\DataAccess.dll.config
+C:\Users\AntonRez\Dropbox\CarWashes\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\AntonRez\Dropbox\CarWashes\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\AntonRez\Dropbox\CarWashes\DataAccess\bin\Debug\Context.dll
+C:\Users\AntonRez\Dropbox\CarWashes\DataAccess\bin\Debug\CoreModels.dll
+C:\Users\AntonRez\Dropbox\CarWashes\DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\AntonRez\Dropbox\CarWashes\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\AntonRez\Dropbox\CarWashes\DataAccess\bin\Debug\Interfaces.dll
+C:\Users\AntonRez\Dropbox\CarWashes\DataAccess\bin\Debug\Context.pdb
+C:\Users\AntonRez\Dropbox\CarWashes\DataAccess\bin\Debug\CoreModels.pdb
+C:\Users\AntonRez\Dropbox\CarWashes\DataAccess\bin\Debug\Interfaces.pdb
+C:\Users\AntonRez\Dropbox\CarWashes\DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\AntonRez\Dropbox\CarWashes\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\AntonRez\Dropbox\CarWashes\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\AntonRez\Dropbox\CarWashes\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\AntonRez\Dropbox\CarWashes\DataAccess\obj\Debug\DataAccess.pdb
+D:\Антон\Программирование\CarWash\CarWashes\DataAccess\bin\Debug\DataAccess.dll.config
+D:\Антон\Программирование\CarWash\CarWashes\DataAccess\bin\Debug\DataAccess.dll
+D:\Антон\Программирование\CarWash\CarWashes\DataAccess\bin\Debug\DataAccess.pdb
+D:\Антон\Программирование\CarWash\CarWashes\DataAccess\bin\Debug\Context.dll
+D:\Антон\Программирование\CarWash\CarWashes\DataAccess\bin\Debug\CoreModels.dll
+D:\Антон\Программирование\CarWash\CarWashes\DataAccess\bin\Debug\EntityFramework.dll
+D:\Антон\Программирование\CarWash\CarWashes\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+D:\Антон\Программирование\CarWash\CarWashes\DataAccess\bin\Debug\Interfaces.dll
+D:\Антон\Программирование\CarWash\CarWashes\DataAccess\bin\Debug\Context.pdb
+D:\Антон\Программирование\CarWash\CarWashes\DataAccess\bin\Debug\CoreModels.pdb
+D:\Антон\Программирование\CarWash\CarWashes\DataAccess\bin\Debug\Interfaces.pdb
+D:\Антон\Программирование\CarWash\CarWashes\DataAccess\bin\Debug\EntityFramework.xml
+D:\Антон\Программирование\CarWash\CarWashes\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+D:\Антон\Программирование\CarWash\CarWashes\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+D:\Антон\Программирование\CarWash\CarWashes\DataAccess\obj\Debug\DataAccess.dll
+D:\Антон\Программирование\CarWash\CarWashes\DataAccess\obj\Debug\DataAccess.pdb
