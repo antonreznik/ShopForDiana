@@ -10,3 +10,7 @@ D:\Антон\Программирование\ShopForDiana\CarWashes\Services\b
 D:\Антон\Программирование\ShopForDiana\CarWashes\Services\bin\Debug\ServiceInterfaces.pdb
 D:\Антон\Программирование\ShopForDiana\CarWashes\Services\obj\Debug\ServiceInterfaces.dll
 D:\Антон\Программирование\ShopForDiana\CarWashes\Services\obj\Debug\ServiceInterfaces.pdb
+D:\Антон\Программирование\ShopForDiana\Shop\Services\bin\Debug\ServiceInterfaces.dll
+D:\Антон\Программирование\ShopForDiana\Shop\Services\bin\Debug\ServiceInterfaces.pdb
+D:\Антон\Программирование\ShopForDiana\Shop\Services\obj\Debug\ServiceInterfaces.dll
+D:\Антон\Программирование\ShopForDiana\Shop\Services\obj\Debug\ServiceInterfaces.pdb

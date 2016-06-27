@@ -46,3 +46,15 @@ D:\Антон\Программирование\ShopForDiana\CarWashes\Context\bi
 D:\Антон\Программирование\ShopForDiana\CarWashes\Context\obj\Debug\Context.csprojResolveAssemblyReference.cache
 D:\Антон\Программирование\ShopForDiana\CarWashes\Context\obj\Debug\Context.dll
 D:\Антон\Программирование\ShopForDiana\CarWashes\Context\obj\Debug\Context.pdb
+D:\Антон\Программирование\ShopForDiana\Shop\Context\bin\Debug\Context.dll.config
+D:\Антон\Программирование\ShopForDiana\Shop\Context\bin\Debug\Context.dll
+D:\Антон\Программирование\ShopForDiana\Shop\Context\bin\Debug\Context.pdb
+D:\Антон\Программирование\ShopForDiana\Shop\Context\bin\Debug\CoreModels.dll
+D:\Антон\Программирование\ShopForDiana\Shop\Context\bin\Debug\EntityFramework.dll
+D:\Антон\Программирование\ShopForDiana\Shop\Context\bin\Debug\EntityFramework.SqlServer.dll
+D:\Антон\Программирование\ShopForDiana\Shop\Context\bin\Debug\CoreModels.pdb
+D:\Антон\Программирование\ShopForDiana\Shop\Context\bin\Debug\EntityFramework.xml
+D:\Антон\Программирование\ShopForDiana\Shop\Context\bin\Debug\EntityFramework.SqlServer.xml
+D:\Антон\Программирование\ShopForDiana\Shop\Context\obj\Debug\Context.csprojResolveAssemblyReference.cache
+D:\Антон\Программирование\ShopForDiana\Shop\Context\obj\Debug\Context.dll
+D:\Антон\Программирование\ShopForDiana\Shop\Context\obj\Debug\Context.pdb

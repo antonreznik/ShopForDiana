@@ -24,3 +24,16 @@ D:\Антон\Программирование\ShopForDiana\CarWashes\AutoMapper
 D:\Антон\Программирование\ShopForDiana\CarWashes\AutoMapper\obj\Debug\AutoMapperConfig.csprojResolveAssemblyReference.cache
 D:\Антон\Программирование\ShopForDiana\CarWashes\AutoMapper\obj\Debug\AutoMapperConfig.dll
 D:\Антон\Программирование\ShopForDiana\CarWashes\AutoMapper\obj\Debug\AutoMapperConfig.pdb
+D:\Антон\Программирование\ShopForDiana\Shop\AutoMapper\bin\Debug\AutoMapperConfig.dll
+D:\Антон\Программирование\ShopForDiana\Shop\AutoMapper\bin\Debug\AutoMapperConfig.pdb
+D:\Антон\Программирование\ShopForDiana\Shop\AutoMapper\bin\Debug\AutoMapper.dll
+D:\Антон\Программирование\ShopForDiana\Shop\AutoMapper\bin\Debug\CoreModels.dll
+D:\Антон\Программирование\ShopForDiana\Shop\AutoMapper\bin\Debug\DTOmodels.dll
+D:\Антон\Программирование\ShopForDiana\Shop\AutoMapper\bin\Debug\ViewModels.dll
+D:\Антон\Программирование\ShopForDiana\Shop\AutoMapper\bin\Debug\CoreModels.pdb
+D:\Антон\Программирование\ShopForDiana\Shop\AutoMapper\bin\Debug\DTOmodels.pdb
+D:\Антон\Программирование\ShopForDiana\Shop\AutoMapper\bin\Debug\ViewModels.pdb
+D:\Антон\Программирование\ShopForDiana\Shop\AutoMapper\bin\Debug\AutoMapper.xml
+D:\Антон\Программирование\ShopForDiana\Shop\AutoMapper\obj\Debug\AutoMapperConfig.csprojResolveAssemblyReference.cache
+D:\Антон\Программирование\ShopForDiana\Shop\AutoMapper\obj\Debug\AutoMapperConfig.dll
+D:\Антон\Программирование\ShopForDiana\Shop\AutoMapper\obj\Debug\AutoMapperConfig.pdb

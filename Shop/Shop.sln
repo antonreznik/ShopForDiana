@@ -47,6 +47,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ViewModels", "ViewModels\Vi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoMapperConfig", "AutoMapper\AutoMapperConfig.csproj", "{B8579B18-8F53-42DF-BF3C-C2C3E0DF068B}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Identity", "Identity", "{78376B47-8D40-4E77-837B-FB1E59E3C4C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomIdentity", "CustomIdentity\CustomIdentity.csproj", "{CE31CCF6-7BE1-4EE8-BE81-AA8E782E6368}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -97,6 +101,10 @@ Global
 		{B8579B18-8F53-42DF-BF3C-C2C3E0DF068B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B8579B18-8F53-42DF-BF3C-C2C3E0DF068B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B8579B18-8F53-42DF-BF3C-C2C3E0DF068B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE31CCF6-7BE1-4EE8-BE81-AA8E782E6368}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE31CCF6-7BE1-4EE8-BE81-AA8E782E6368}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE31CCF6-7BE1-4EE8-BE81-AA8E782E6368}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE31CCF6-7BE1-4EE8-BE81-AA8E782E6368}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -119,5 +127,6 @@ Global
 		{C456D639-C509-4EF1-9AB5-258CCF7C3EA3} = {3F52993C-C8D8-4EF4-95A5-F3500260DB9C}
 		{850DEEFB-CC92-4638-A3D0-0E0FB0EF34E4} = {C67789D5-0CE2-407D-9DA5-E4ADC45BDFF6}
 		{B8579B18-8F53-42DF-BF3C-C2C3E0DF068B} = {3F52993C-C8D8-4EF4-95A5-F3500260DB9C}
+		{CE31CCF6-7BE1-4EE8-BE81-AA8E782E6368} = {78376B47-8D40-4E77-837B-FB1E59E3C4C6}
 	EndGlobalSection
 EndGlobal

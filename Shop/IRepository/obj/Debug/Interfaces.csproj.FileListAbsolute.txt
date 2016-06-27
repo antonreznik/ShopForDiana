@@ -19,3 +19,10 @@ D:\Антон\Программирование\ShopForDiana\CarWashes\IRepositor
 D:\Антон\Программирование\ShopForDiana\CarWashes\IRepository\obj\Debug\Interfaces.csprojResolveAssemblyReference.cache
 D:\Антон\Программирование\ShopForDiana\CarWashes\IRepository\obj\Debug\Interfaces.dll
 D:\Антон\Программирование\ShopForDiana\CarWashes\IRepository\obj\Debug\Interfaces.pdb
+D:\Антон\Программирование\ShopForDiana\Shop\IRepository\bin\Debug\Interfaces.dll
+D:\Антон\Программирование\ShopForDiana\Shop\IRepository\bin\Debug\Interfaces.pdb
+D:\Антон\Программирование\ShopForDiana\Shop\IRepository\bin\Debug\CoreModels.dll
+D:\Антон\Программирование\ShopForDiana\Shop\IRepository\bin\Debug\CoreModels.pdb
+D:\Антон\Программирование\ShopForDiana\Shop\IRepository\obj\Debug\Interfaces.dll
+D:\Антон\Программирование\ShopForDiana\Shop\IRepository\obj\Debug\Interfaces.pdb
+D:\Антон\Программирование\ShopForDiana\Shop\IRepository\obj\Debug\Interfaces.csprojResolveAssemblyReference.cache
