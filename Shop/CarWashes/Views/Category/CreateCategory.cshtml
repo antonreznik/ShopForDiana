@@ -1,0 +1,30 @@
+﻿@model ViewModels.CategoryViewModel
+
+@{
+    ViewBag.Title = "CreateCategory";
+    Layout = "~/Views/Admin/_AdminLayoutPage.cshtml";
+}
+
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-horizontal">
+        <h4>Добавление новой категории</h4>
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "red-text text-darken-1" })
+
+        <div class="input-field col s2">           
+            @Html.EditorFor(model => model.Name, new { htmlAttributes = new { @class = "validate" } })
+            @Html.LabelFor(model => model.Name)
+            @Html.ValidationMessageFor(model => model.Name, "", new { @class = "red-text text-darken-1" })
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Create" class="btn btn-default" />
+            </div>
+        </div>
+    </div>
+}

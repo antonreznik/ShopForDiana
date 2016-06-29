@@ -36,7 +36,7 @@ namespace NinjectContainer
         private void AddBindings()
         {
             _kernel.Bind<IUnitOfWork>().To<UnitOfWork>();
-            _kernel.Bind<IService<DTOwasher>>().To<WasherService>();
+            _kernel.Bind<IService<CategoryDTO>>().To<CategoryService>();
         }
     }
 }

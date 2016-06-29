@@ -12,6 +12,5 @@ D:\Антон\Программирование\ShopForDiana\CarWashes\CoreModels
 D:\Антон\Программирование\ShopForDiana\CarWashes\CoreModels\obj\Debug\CoreModels.pdb
 D:\Антон\Программирование\ShopForDiana\Shop\CoreModels\bin\Debug\CoreModels.dll
 D:\Антон\Программирование\ShopForDiana\Shop\CoreModels\bin\Debug\CoreModels.pdb
-D:\Антон\Программирование\ShopForDiana\Shop\CoreModels\obj\Debug\CoreModels.csprojResolveAssemblyReference.cache
 D:\Антон\Программирование\ShopForDiana\Shop\CoreModels\obj\Debug\CoreModels.dll
 D:\Антон\Программирование\ShopForDiana\Shop\CoreModels\obj\Debug\CoreModels.pdb

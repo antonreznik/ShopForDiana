@@ -11,6 +11,6 @@ namespace Context
     public class EFContext : DbContext
     {
         public EFContext() : base("Shop") {}
-        public DbSet<Washer> Washes { get; set; }
+        public DbSet<Category> ProductCategories { get; set; }
     }
 }

@@ -45,7 +45,7 @@ namespace Shop.Controllers
         {
             if (ModelState.IsValid)
             {
-                ShopUser user = await UserManager.FindAsync(details.Name, details.Password);
+                ShopUser user = await UserManager.FindAsync(details.Login, details.Password);
                 if (user == null)
                 {
                     ModelState.AddModelError("", "Invalid name or password.");

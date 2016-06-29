@@ -20,21 +20,21 @@ namespace Shop.Controllers
     [Authorize]
     public class AdminController : Controller
     {
-        private IService<DTOwasher> _washerService;
-        private IMapper _mapper;
-        private ShopUserManager UserManager
-        {
-            get
-            {
-                return HttpContext.GetOwinContext().GetUserManager<ShopUserManager>();
-            }
-        }
+        //private IService<DTOwasher> _washerService;
+        //private IMapper _mapper;
+        //private ShopUserManager UserManager
+        //{
+        //    get
+        //    {
+        //        return HttpContext.GetOwinContext().GetUserManager<ShopUserManager>();
+        //    }
+        //}
 
-        public AdminController(IService<DTOwasher> washerService)
-        {
-            this._washerService = washerService;
-            this._mapper = AutoMapperConfiguration.GetMapper();
-        }
+        //public AdminController(IService<DTOwasher> washerService)
+        //{
+        //    this._washerService = washerService;
+        //    this._mapper = AutoMapperConfiguration.GetMapper();
+        //}
 
         public ActionResult Index()
         {
@@ -58,16 +58,16 @@ namespace Shop.Controllers
         //    }
         //}
 
-        public ActionResult AddWasher()
-        {
-            return View();
-        }
+        //public ActionResult AddWasher()
+        //{
+        //    return View();
+        //}
 
-        [HttpPost]
-        public ActionResult AddWasher(WasherViewModel washer)
-        {
-            _washerService.Create(_mapper.Map<DTOwasher>(washer));
-            return View();
-        }
+        //[HttpPost]
+        //public ActionResult AddWasher(WasherViewModel washer)
+        //{
+        //    _washerService.Create(_mapper.Map<DTOwasher>(washer));
+        //    return View();
+        //}
     }
 }

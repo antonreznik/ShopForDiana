@@ -49,8 +49,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CategoryRepo.cs" />
     <Compile Include="UnitOfWork.cs" />
-    <Compile Include="WasherRepo.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

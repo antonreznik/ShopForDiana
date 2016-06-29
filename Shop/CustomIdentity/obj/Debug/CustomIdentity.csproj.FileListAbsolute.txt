@@ -26,4 +26,3 @@ D:\Антон\Программирование\ShopForDiana\Shop\CustomIdentity\
 D:\Антон\Программирование\ShopForDiana\Shop\CustomIdentity\bin\Debug\Newtonsoft.Json.xml
 D:\Антон\Программирование\ShopForDiana\Shop\CustomIdentity\obj\Debug\CustomIdentity.dll
 D:\Антон\Программирование\ShopForDiana\Shop\CustomIdentity\obj\Debug\CustomIdentity.pdb
-D:\Антон\Программирование\ShopForDiana\Shop\CustomIdentity\obj\Debug\CustomIdentity.csprojResolveAssemblyReference.cache

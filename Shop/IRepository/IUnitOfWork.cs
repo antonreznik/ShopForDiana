@@ -9,6 +9,6 @@ namespace Interfaces
 {
     public interface IUnitOfWork
     {
-        IRepository<Washer> WasherRepository { get; }
+        IRepository<Category> CategoryRepository { get; }
     }
 }

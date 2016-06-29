@@ -13,6 +13,5 @@ D:\Антон\Программирование\ShopForDiana\CarWashes\DTOmodels\
 D:\Антон\Программирование\ShopForDiana\CarWashes\DTOmodels\obj\Debug\DTOmodels.pdb
 D:\Антон\Программирование\ShopForDiana\Shop\DTOmodels\bin\Debug\DTOmodels.dll
 D:\Антон\Программирование\ShopForDiana\Shop\DTOmodels\bin\Debug\DTOmodels.pdb
-D:\Антон\Программирование\ShopForDiana\Shop\DTOmodels\obj\Debug\DTOmodels.csprojResolveAssemblyReference.cache
 D:\Антон\Программирование\ShopForDiana\Shop\DTOmodels\obj\Debug\DTOmodels.dll
 D:\Антон\Программирование\ShopForDiana\Shop\DTOmodels\obj\Debug\DTOmodels.pdb

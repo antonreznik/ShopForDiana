@@ -23,11 +23,11 @@ namespace AutoMapperConfig
         {
             _config = new MapperConfiguration(cfg =>
             {
-                cfg.CreateMap<DTOwasher, Washer>();
-                cfg.CreateMap<Washer, DTOwasher>();
+                cfg.CreateMap<CategoryDTO, Category>();
+                cfg.CreateMap<Category, CategoryDTO>();
 
-                cfg.CreateMap<WasherViewModel, DTOwasher>();
-                cfg.CreateMap<DTOwasher, WasherViewModel>();
+                cfg.CreateMap<CategoryViewModel, CategoryDTO>();
+                cfg.CreateMap<CategoryDTO, CategoryViewModel>();
             });
         }
 

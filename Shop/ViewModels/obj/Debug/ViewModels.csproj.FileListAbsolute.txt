@@ -8,6 +8,6 @@ D:\Антон\Программирование\ShopForDiana\CarWashes\ViewModels
 D:\Антон\Программирование\ShopForDiana\CarWashes\ViewModels\obj\Debug\ViewModels.pdb
 D:\Антон\Программирование\ShopForDiana\Shop\ViewModels\bin\Debug\ViewModels.dll
 D:\Антон\Программирование\ShopForDiana\Shop\ViewModels\bin\Debug\ViewModels.pdb
-D:\Антон\Программирование\ShopForDiana\Shop\ViewModels\obj\Debug\ViewModels.csprojResolveAssemblyReference.cache
 D:\Антон\Программирование\ShopForDiana\Shop\ViewModels\obj\Debug\ViewModels.dll
 D:\Антон\Программирование\ShopForDiana\Shop\ViewModels\obj\Debug\ViewModels.pdb
+D:\Антон\Программирование\ShopForDiana\Shop\ViewModels\obj\Debug\ViewModels.csprojResolveAssemblyReference.cache

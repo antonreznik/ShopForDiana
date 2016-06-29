@@ -4,6 +4,35 @@
     Layout = "~/Views/Admin/_AdminLayoutPage.cshtml";
 }
 
-<h2>Index</h2>
-@Html.ActionLink("Add washer", "AddWasher", "Admin")
+<div class="container">
+    <div class="row">
+        <div class="col s2 valign-wrapper center-align blue lighten-2 hoverable div_style">
+            @Html.ActionLink("Добавить категорию товаров", "CreateCategory", "Category")
+        </div>
+
+        <div class="col s2 valign-wrapper center-align blue lighten-2 hoverable div_style">
+            @Html.ActionLink("Отредактировать категорию товаров", "AddWasher", "Admin")
+        </div>
+
+        <div class="col s2 valign-wrapper center-align blue lighten-2 hoverable div_style">
+            @Html.ActionLink("Скрыть категорию товаров", "AddWasher", "Admin")
+        </div>
+
+        <div class="col s2 valign-wrapper center-align blue lighten-2 hoverable div_style">
+            @Html.ActionLink("Показать категорию товаров", "AddWasher", "Admin")
+        </div>
+
+        <div class="col s2 valign-wrapper center-align blue lighten-2 hoverable div_style">
+            @Html.ActionLink("Добавить категорию товаров", "AddWasher", "Admin")
+        </div>
+
+        <div class="col s2 valign-wrapper center-align blue lighten-2 hoverable div_style">
+            @Html.ActionLink("Добавить категорию товаров", "AddWasher", "Admin")
+        </div>
+    </div>
+</div>
+
+
+
+
 

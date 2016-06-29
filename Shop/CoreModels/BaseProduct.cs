@@ -6,12 +6,13 @@ using System.Threading.Tasks;
 
 namespace CoreModels
 {
-    public class Washer
+    public abstract class BaseProduct
     {
         public int Id { get; set; }
         public string Name { get; set; }
         public string Description { get; set; }
-        public string Latitude { get; set; }
-        public string Longitude { get; set; }
+        public int Price { get; set; }
+        public virtual IEnumerable<byte[]> Images { get; set; }
+        public bool IsAvailable { get; set; }
     }
 }

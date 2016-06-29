@@ -12,8 +12,8 @@ namespace DataAccess
     public class UnitOfWork : IUnitOfWork
     {
         private EFContext _context = new EFContext();
-        private IRepository<Washer> _washerRepository;
+        private IRepository<Category> _categoryRepository;
 
-        public IRepository<Washer> WasherRepository => _washerRepository ?? new WasherRepo(_context);
+        public IRepository<Category> CategoryRepository => _categoryRepository ?? new CategoryRepo(_context);
     }
 }

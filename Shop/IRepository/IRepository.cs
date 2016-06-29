@@ -9,10 +9,10 @@ namespace Interfaces
     public interface IRepository<T>
     {
         void Create(T model);
-        T GetOne(object id);
+        T GetOne(int id);
         IQueryable<T> GetAll();
         void Update(T model);
-        void DeleteById(object id);
-        void DeleteByModel(T model);
+        void Hide(int id);
+        void Show(int id);
     }
 }

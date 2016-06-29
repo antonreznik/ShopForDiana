@@ -173,6 +173,7 @@
     <Content Include="App_Data\Shop_log.ldf">
       <DependentUpon>Shop.mdf</DependentUpon>
     </Content>
+    <Content Include="content\AdminStyleSheet.css" />
     <Content Include="content\materialize\css\materialize.css" />
     <Content Include="content\materialize\css\materialize.min.css" />
     <Content Include="content\materialize\font\material-design-icons\LICENSE.txt" />
@@ -236,6 +237,7 @@
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="Controllers\AccountController.cs" />
     <Compile Include="Controllers\AdminController.cs" />
+    <Compile Include="Controllers\CategoryController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
@@ -255,6 +257,7 @@
     <Content Include="Views\Home\Index.cshtml" />
     <Content Include="Views\Account\Login.cshtml" />
     <Content Include="scripts\jquery-2.1.1.min.map" />
+    <Content Include="Views\Category\CreateCategory.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -291,6 +294,7 @@
       <Name>ViewModels</Name>
     </ProjectReference>
   </ItemGroup>
+  <ItemGroup />
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>

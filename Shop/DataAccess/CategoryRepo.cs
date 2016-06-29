@@ -9,42 +9,42 @@ using System.Threading.Tasks;
 
 namespace DataAccess
 {
-    public class WasherRepo : IRepository<Washer>
+    public class CategoryRepo : IRepository<Category>
     {
         private EFContext _context;
 
-        public WasherRepo(EFContext context)
+        public CategoryRepo(EFContext context)
         {
-            this._context = context;
+            _context = context;    
         }
 
-        public void Create(Washer model)
+        public void Create(Category model)
         {
-            _context.Washes.Add(model);
+            _context.ProductCategories.Add(model);
             _context.SaveChanges();
         }
 
-        public void DeleteById(object id)
+        public IQueryable<Category> GetAll()
         {
             throw new NotImplementedException();
         }
 
-        public void DeleteByModel(Washer model)
+        public Category GetOne(int id)
         {
             throw new NotImplementedException();
         }
 
-        public IQueryable<Washer> GetAll()
-        {
-            return _context.Washes;
-        }
-
-        public Washer GetOne(object id)
+        public void Hide(int id)
         {
             throw new NotImplementedException();
         }
 
-        public void Update(Washer model)
+        public void Show(int id)
+        {
+            throw new NotImplementedException();
+        }
+
+        public void Update(Category model)
         {
             throw new NotImplementedException();
         }
