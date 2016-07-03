@@ -12,6 +12,6 @@ namespace CoreModels
         public string Name { get; set; }
         public bool IsShown { get; set; }
 
-        public virtual IEnumerable<BaseProduct> Products { get; set; }
+        //public virtual IEnumerable<BaseProduct> Products { get; set; }
     }
 }

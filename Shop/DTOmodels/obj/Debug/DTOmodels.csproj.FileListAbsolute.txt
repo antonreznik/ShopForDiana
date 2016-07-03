@@ -15,3 +15,4 @@ D:\Антон\Программирование\ShopForDiana\Shop\DTOmodels\bin\D
 D:\Антон\Программирование\ShopForDiana\Shop\DTOmodels\bin\Debug\DTOmodels.pdb
 D:\Антон\Программирование\ShopForDiana\Shop\DTOmodels\obj\Debug\DTOmodels.dll
 D:\Антон\Программирование\ShopForDiana\Shop\DTOmodels\obj\Debug\DTOmodels.pdb
+D:\Антон\Программирование\ShopForDiana\Shop\DTOmodels\obj\Debug\DTOmodels.csprojResolveAssemblyReference.cache

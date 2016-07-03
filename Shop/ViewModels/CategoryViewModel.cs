@@ -10,8 +10,9 @@ namespace ViewModels
     public class CategoryViewModel
     {
         public int Id { get; set; }
-        [Required]
-        [Display(Name="Enter category name")]
+
+        [Required(ErrorMessage = "Введите наименование категории")]
+        [Display(Name="Enter new category name")]
         public string Name { get; set; }
         public bool IsShown { get; set; }
     }

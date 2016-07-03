@@ -14,3 +14,4 @@ D:\Антон\Программирование\ShopForDiana\Shop\CoreModels\bin\
 D:\Антон\Программирование\ShopForDiana\Shop\CoreModels\bin\Debug\CoreModels.pdb
 D:\Антон\Программирование\ShopForDiana\Shop\CoreModels\obj\Debug\CoreModels.dll
 D:\Антон\Программирование\ShopForDiana\Shop\CoreModels\obj\Debug\CoreModels.pdb
+D:\Антон\Программирование\ShopForDiana\Shop\CoreModels\obj\Debug\CoreModels.csprojResolveAssemblyReference.cache
