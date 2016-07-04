@@ -6,8 +6,16 @@
 
 <div class="container">
     <div class="row">
-        <div class="col s2 valign-wrapper center-align blue lighten-2 hoverable div_style">
-            @Html.ActionLink("Добавить категорию товаров", "CreateCategory", "Category")
+        <div class="col s2 valign-wrapper center-align blue lighten-2 hoverable div_style" id="add_category">
+            @*@Html.ActionLink("Добавить категорию товаров", "CreateCategory", "Category")*@
+            @*@Url.Action("CreateCategory","Category")*@
+        </div>
+
+        <div id="modal_window" class="modal modal-close">
+            <div class="modal-header">
+                <a href="#!" class="modal-close waves-effect waves-green btn offset-s10">X</a>
+            </div>
+            <div class="modal-content" id="modal_content"></div>  
         </div>
 
         <div class="col s2 valign-wrapper center-align blue lighten-2 hoverable div_style">
