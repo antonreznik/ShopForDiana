@@ -26,7 +26,7 @@ namespace DataAccess
 
         public IQueryable<Category> GetAll()
         {
-            throw new NotImplementedException();
+            return _context.ProductCategories;
         }
 
         public Category GetOne(int id)

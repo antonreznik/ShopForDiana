@@ -40,7 +40,7 @@ namespace ServicesDTO
 
         public IEnumerable<CategoryDTO> GetAll()
         {
-            throw new NotImplementedException();
+            return _mapper.Map<IEnumerable<CategoryDTO>>(_unitOfWork.CategoryRepository.GetAll().ToList());
         }
 
         public CategoryDTO GetOne(object id)

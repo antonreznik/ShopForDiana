@@ -60,3 +60,17 @@ D:\Антон\Программирование\ShopForDiana\Shop\Context\obj\Deb
 D:\Антон\Программирование\ShopForDiana\Shop\Context\obj\Debug\Context.pdb
 D:\Антон\Программирование\ShopForDiana\Shop\Context\obj\Debug\Context.Migrations.InitialCreate.resources
 D:\Антон\Программирование\ShopForDiana\Shop\Context\obj\Debug\Context.csproj.GenerateResource.Cache
+C:\Users\AntonRez\Documents\HomeTask\GitRepo\ShopForDiana\Shop\Context\bin\Debug\Context.dll.config
+C:\Users\AntonRez\Documents\HomeTask\GitRepo\ShopForDiana\Shop\Context\bin\Debug\Context.dll
+C:\Users\AntonRez\Documents\HomeTask\GitRepo\ShopForDiana\Shop\Context\bin\Debug\Context.pdb
+C:\Users\AntonRez\Documents\HomeTask\GitRepo\ShopForDiana\Shop\Context\bin\Debug\CoreModels.dll
+C:\Users\AntonRez\Documents\HomeTask\GitRepo\ShopForDiana\Shop\Context\bin\Debug\EntityFramework.dll
+C:\Users\AntonRez\Documents\HomeTask\GitRepo\ShopForDiana\Shop\Context\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\AntonRez\Documents\HomeTask\GitRepo\ShopForDiana\Shop\Context\bin\Debug\CoreModels.pdb
+C:\Users\AntonRez\Documents\HomeTask\GitRepo\ShopForDiana\Shop\Context\bin\Debug\EntityFramework.xml
+C:\Users\AntonRez\Documents\HomeTask\GitRepo\ShopForDiana\Shop\Context\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\AntonRez\Documents\HomeTask\GitRepo\ShopForDiana\Shop\Context\obj\Debug\Context.csprojResolveAssemblyReference.cache
+C:\Users\AntonRez\Documents\HomeTask\GitRepo\ShopForDiana\Shop\Context\obj\Debug\Context.Migrations.InitialCreate.resources
+C:\Users\AntonRez\Documents\HomeTask\GitRepo\ShopForDiana\Shop\Context\obj\Debug\Context.csproj.GenerateResource.Cache
+C:\Users\AntonRez\Documents\HomeTask\GitRepo\ShopForDiana\Shop\Context\obj\Debug\Context.dll
+C:\Users\AntonRez\Documents\HomeTask\GitRepo\ShopForDiana\Shop\Context\obj\Debug\Context.pdb

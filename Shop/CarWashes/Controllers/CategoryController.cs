@@ -22,7 +22,6 @@ namespace Shop.Controllers
             _mapper = AutoMapperConfiguration.GetMapper();
         }
 
-
         [Authorize]
         public ActionResult CreateCategory()
         {
@@ -40,6 +39,19 @@ namespace Shop.Controllers
             }
 
             return View();
+        }
+
+        [Authorize]
+        public ActionResult EditCategory()
+        {
+            return View(_mapper.Map<IEnumerable<CategoryViewModel>>(_categoryService.GetAll()));
+        }
+
+        [Authorize]
+        public ActionResult HideCategory()
+        {
+            return Json(_mapper.Map<IEnumerable<CategoryViewModel>>(_categoryService.GetAll().
+                   Where(x=>x.IsShown=true)), JsonRequestBehavior.AllowGet);
         }
     }
 }
