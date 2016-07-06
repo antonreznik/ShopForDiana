@@ -3,6 +3,10 @@
     margin:1%;
 }
 
-.div_style > a{
+.div_style > span{
     color:white;
+}
+
+.div_style:hover{
+    cursor:pointer;
 }

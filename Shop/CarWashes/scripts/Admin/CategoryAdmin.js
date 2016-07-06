@@ -8,7 +8,7 @@
                 alert("hello");
             })
         });
-    }
+    };
 
     addEventListenerOnCreateCategory() {
         document.getElementById("add_category").addEventListener("click", function () {
@@ -16,12 +16,25 @@
                 url: "/Category/CreateCategory",
                 success: function (result) {
                     $("#modal_content").html(result);
+
+                    //add event listener on create category button in modal window
+                    document.getElementById("create_category_button").addEventListener("click", function () {
+                        event.preventDefault();
+                        let category = $("#Name").value;
+                        $.ajax({
+                            url: "/Category/CreateCategory",
+                            method: "POST",
+                            data: category,
+                            success: function (result) {
+                                $("#modal_content").html(result);
+                            }
+                        })
+                    });
                 }
             });
-
-            $('#modal_window').openModal();
+            $('#modal_window').width("35%").openModal();
         });
-    }
+    }; 
 };
 
 let categoryAdmin = new WorkWithCategory();

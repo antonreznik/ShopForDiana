@@ -1,10 +1,5 @@
 ﻿@model ViewModels.CategoryViewModel
 
-@*@{
-    ViewBag.Title = "CreateCategory";
-    Layout = "~/Views/Admin/_AdminLayoutPage.cshtml";
-}*@
-
 <div class="row">
     @using (Html.BeginForm())
     {
@@ -16,6 +11,10 @@
             @Html.ValidationMessageFor(model => model.Name, "", new { @class = "red-text text-darken-1" })
         </div>
         <br />
-        <input type="submit" value="Create" class="btn" />
+        <input type="submit" value="Create" class="btn" id="create_category_button" />
     }
+
+    <script>
+        
+    </script>
 </div>
