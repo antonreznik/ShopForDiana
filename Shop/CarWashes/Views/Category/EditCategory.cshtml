@@ -1,25 +1,24 @@
 ﻿@model IEnumerable<ViewModels.CategoryViewModel>
 
-@{
+@*@{
     ViewBag.Title = "EditCategory";
     Layout = "~/Views/Admin/_AdminLayoutPage.cshtml";
-}
+}*@
 
 <div class="row">
-    <div class="col s4">
+    <div class="col s10">
         @foreach (var item in Model)
         {
             <div class="input-field col s8">
-                <input disabled value="@item.Name" id="@item.Id" type="text" class="validate">
+                <input disabled value="@item.Name" id="@item.Id" data-input="@item.Id" type="text" class="validate">
                 <label for="disabled">Change category name</label>
             </div>     
             <br />
-            <button class="btn col s2" id="@item.Id" value="editButton">Edit</button>
-            <button class="btn col s2" id="@item.Id">Save</button>
+            <button class="btn col s2" id="@item.Id" value="editButton" data-editbtn="@item.Id">Edit</button>
+            <button class="btn col s2" id="@item.Id" data-savebtn="@item.Id">Save</button>
             <br />
             <br />
             <br />
         }
     </div>
 </div>
-<script src="~/scripts/Admin/CategoryAdmin.js"></script>
