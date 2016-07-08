@@ -12,7 +12,6 @@ namespace Interfaces
         T GetOne(int id);
         IQueryable<T> GetAll();
         void Update(T model);
-        void Hide(int id);
-        void Show(int id);
+        void Visibility(T model);
     }
 }

@@ -42,16 +42,36 @@ namespace Shop.Controllers
         }
 
         [Authorize]
-        public ActionResult EditCategory()
+        public ActionResult UpdateCategory()
         {
             return View(_mapper.Map<IEnumerable<CategoryViewModel>>(_categoryService.GetAll()));
         }
 
         [Authorize]
-        public ActionResult HideCategory()
+        [HttpPost]
+        public ActionResult UpdateCategory(CategoryViewModel category)
         {
-            return Json(_mapper.Map<IEnumerable<CategoryViewModel>>(_categoryService.GetAll().
-                   Where(x=>x.IsShown=true)), JsonRequestBehavior.AllowGet);
+            if (ModelState.IsValid)
+            {
+                _categoryService.Update(_mapper.Map<CategoryDTO>(category));
+                return RedirectToAction("UpdateCategory", "Category");
+            }
+
+            return View();
+        }
+
+        [Authorize]
+        public ActionResult ShowHideCategory()
+        {
+            return View(_mapper.Map<IEnumerable<CategoryViewModel>>(_categoryService.GetAll()));
+        }
+
+        [Authorize]
+        [HttpPost]
+        public ActionResult ShowHideCategory(CategoryViewModel category)
+        {
+            _categoryService.Visibility(_mapper.Map<CategoryDTO>(category));
+            return RedirectToAction("ShowHideCategory", "Category");
         }
     }
 }

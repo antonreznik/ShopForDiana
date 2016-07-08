@@ -258,7 +258,10 @@
     <Content Include="Views\Account\Login.cshtml" />
     <Content Include="scripts\jquery-2.1.1.min.map" />
     <Content Include="Views\Category\CreateCategory.cshtml" />
-    <Content Include="Views\Category\EditCategory.cshtml" />
+    <Content Include="Views\Category\UpdateCategory.cshtml">
+      <BrowseToURL>~/Category/UpdateCategory</BrowseToURL>
+    </Content>
+    <Content Include="Views\Category\ShowHideCategory.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

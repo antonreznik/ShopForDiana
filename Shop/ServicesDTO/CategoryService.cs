@@ -28,16 +28,7 @@ namespace ServicesDTO
             _unitOfWork.CategoryRepository.Create(_mapper.Map<Category>(model));
         }
 
-        public void DeleteById(object id)
-        {
-            throw new NotImplementedException();
-        }
-
-        public void DeleteByModel(CategoryDTO model)
-        {
-            throw new NotImplementedException();
-        }
-
+        
         public IEnumerable<CategoryDTO> GetAll()
         {
             return _mapper.Map<IEnumerable<CategoryDTO>>(_unitOfWork.CategoryRepository.GetAll().ToList());
@@ -50,7 +41,12 @@ namespace ServicesDTO
 
         public void Update(CategoryDTO model)
         {
-            throw new NotImplementedException();
+            _unitOfWork.CategoryRepository.Update(_mapper.Map<Category>(model));
+        }
+
+        public void Visibility(CategoryDTO model)
+        {
+            _unitOfWork.CategoryRepository.Visibility(_mapper.Map<Category>(model));
         }
     }
 }

@@ -3,6 +3,7 @@ using CoreModels;
 using Interfaces;
 using System;
 using System.Collections.Generic;
+using System.Data.Entity;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -31,22 +32,27 @@ namespace DataAccess
 
         public Category GetOne(int id)
         {
-            throw new NotImplementedException();
-        }
-
-        public void Hide(int id)
-        {
-            throw new NotImplementedException();
-        }
-
-        public void Show(int id)
-        {
-            throw new NotImplementedException();
+            return _context.ProductCategories.FirstOrDefault(x => x.Id == id);
         }
 
         public void Update(Category model)
         {
-            throw new NotImplementedException();
+            var categoryFromBase = GetOne(model.Id);
+            if (categoryFromBase != null)
+            {
+                categoryFromBase.Name = model.Name;
+                _context.SaveChanges();
+            }
         }
+
+        public void Visibility(Category model)
+        {
+            var categoryFromBase = GetOne(model.Id);
+            if (categoryFromBase != null)
+            {
+                categoryFromBase.IsShown = model.IsShown;
+                _context.SaveChanges();
+            }
+        }    
     }
 }

@@ -12,7 +12,6 @@ namespace ServiceInterfaces
         T GetOne(object id);
         IEnumerable<T> GetAll();
         void Update(T model);
-        void DeleteById(object id);
-        void DeleteByModel(T model);
+        void Visibility(T model);
     }
 }

@@ -28,6 +28,7 @@
             $('#modal_window').width("35%").openModal();
         });
     };
+
     addEventListenerOnEditCategory() {
         let editButtonListener = function (event) {
             let editButton = event.currentTarget;
@@ -40,7 +41,7 @@
             $(saveButton).removeClass("disabled");
 
             editButton.removeEventListener("click", editButtonListener);
-            saveButton.addEventListener("click", saveButtonListener);
+            saveButton.addEventListener("click", saveButtonListener);    
         }
         let saveButtonListener = function (event) {
             let saveButton = event.currentTarget;
@@ -54,9 +55,9 @@
 
             saveButton.removeEventListener("click", saveButtonListener);
             editButton.addEventListener("click", editButtonListener)
-            alert("save");
+            
             $.ajax({
-                url: "/Category/CreateCategory",
+                url: "/Category/UpdateCategory",
                 method: "POST",
                 data: { "Id": inputDataAttr, "Name": input.value }
             })
@@ -64,7 +65,7 @@
 
         document.getElementById("edit_category").addEventListener("click", function () {
             $.ajax({
-                url: "/Category/EditCategory",
+                url: "/Category/UpdateCategory",
                 success: function (result) {
                     $("#modal_content").html(result);
 
@@ -75,12 +76,40 @@
                     });
                 }
             });
-            $('#modal_window').width("65%").openModal();
+            $('#modal_window').width("45%").openModal();
         });
     };
+
+    addEventListenerOnShowHideCategory() {
+        let switchEventListener = function (event) {
+            let switchObject = event.currentTarget;
+            let inputDataAttr = switchObject.dataset.checkbox;
+            $.ajax({
+                method:"POST",
+                url: "/Category/ShowHideCategory",
+                data: { "Id": inputDataAttr, "IsShown": switchObject.checked }
+            })
+        }
+        document.getElementById("show_hide_category").addEventListener("click", function () {
+            $.ajax({
+                url: "/Category/ShowHideCategory",
+                success: function (result) {
+                    $("#modal_content").html(result);
+
+                    //add event listener on every switch checkbox
+                    let switches = document.querySelectorAll("input[type='checkbox']");
+                    switches.forEach(function (switchObject) {
+                        switchObject.addEventListener("click", switchEventListener);
+                    });
+                }
+            });
+            $('#modal_window').width("45%").openModal();
+        })
+    }
 };
 
 let categoryAdmin = new WorkWithCategory();
 categoryAdmin.addEventListenerOnCreateCategory();
 categoryAdmin.addEventListenerOnEditCategory();
+categoryAdmin.addEventListenerOnShowHideCategory();
 
