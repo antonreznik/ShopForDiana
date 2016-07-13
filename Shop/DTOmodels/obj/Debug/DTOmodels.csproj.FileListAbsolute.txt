@@ -18,6 +18,5 @@ D:\Антон\Программирование\ShopForDiana\Shop\DTOmodels\obj\D
 D:\Антон\Программирование\ShopForDiana\Shop\DTOmodels\obj\Debug\DTOmodels.csprojResolveAssemblyReference.cache
 C:\Users\AntonRez\Documents\HomeTask\GitRepo\ShopForDiana\Shop\DTOmodels\bin\Debug\DTOmodels.dll
 C:\Users\AntonRez\Documents\HomeTask\GitRepo\ShopForDiana\Shop\DTOmodels\bin\Debug\DTOmodels.pdb
-C:\Users\AntonRez\Documents\HomeTask\GitRepo\ShopForDiana\Shop\DTOmodels\obj\Debug\DTOmodels.csprojResolveAssemblyReference.cache
 C:\Users\AntonRez\Documents\HomeTask\GitRepo\ShopForDiana\Shop\DTOmodels\obj\Debug\DTOmodels.dll
 C:\Users\AntonRez\Documents\HomeTask\GitRepo\ShopForDiana\Shop\DTOmodels\obj\Debug\DTOmodels.pdb

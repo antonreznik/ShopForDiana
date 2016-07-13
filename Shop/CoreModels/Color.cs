@@ -12,6 +12,5 @@ namespace CoreModels
         public string Name { get; set; }
         public byte[] Image { get; set; }
         public bool IsAvailable { get; set; }
-        public virtual IEnumerable<BaseProduct> Products { get; set; }
     }
 }
