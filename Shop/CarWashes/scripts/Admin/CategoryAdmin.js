@@ -9,6 +9,7 @@
                 url: "/Category/CreateCategory",
                 success: function (result) {
                     $("#modal_content").html(result);
+                    $('#modal_window').width("35%").openModal();
 
                     //add event listener on create category button in modal window
                     document.getElementById("create_category_button").addEventListener("click", function () {
@@ -19,13 +20,12 @@
                             method: "POST",
                             data: category,
                             success: function (result) {
-                                $("#modal_content").html(result);
+                                $("#modal_content").html(result);                               
                             }
                         })
                     });
                 }
-            });
-            $('#modal_window').width("35%").openModal();
+            });        
         });
     };
 
@@ -68,6 +68,7 @@
                 url: "/Category/UpdateCategory",
                 success: function (result) {
                     $("#modal_content").html(result);
+                    $('#modal_window').width("45%").openModal();
 
                     //add event listener on every edit button
                     let editButtons = document.querySelectorAll("button[value='editButton']");
@@ -75,8 +76,7 @@
                         button.addEventListener("click", editButtonListener);
                     });
                 }
-            });
-            $('#modal_window').width("45%").openModal();
+            });         
         });
     };
 
@@ -95,6 +95,7 @@
                 url: "/Category/ShowHideCategory",
                 success: function (result) {
                     $("#modal_content").html(result);
+                    $('#modal_window').width("45%").openModal();
 
                     //add event listener on every switch checkbox
                     let switches = document.querySelectorAll("input[type='checkbox']");
@@ -102,8 +103,7 @@
                         switchObject.addEventListener("click", switchEventListener);
                     });
                 }
-            });
-            $('#modal_window').width("45%").openModal();
+            });         
         })
     }
 };
