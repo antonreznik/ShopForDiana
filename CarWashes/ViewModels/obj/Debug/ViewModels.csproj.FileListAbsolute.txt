@@ -1,4 +1,0 @@
-D:\Антон\Программирование\CarWash\CarWashes\ViewModels\bin\Debug\ViewModels.dll
-D:\Антон\Программирование\CarWash\CarWashes\ViewModels\bin\Debug\ViewModels.pdb
-D:\Антон\Программирование\CarWash\CarWashes\ViewModels\obj\Debug\ViewModels.dll
-D:\Антон\Программирование\CarWash\CarWashes\ViewModels\obj\Debug\ViewModels.pdb

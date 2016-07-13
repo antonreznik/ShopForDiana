@@ -1,0 +1,12 @@
+﻿.div_style{
+    height:100px;
+    margin:1%;
+}
+
+.div_style > span{
+    color:white;
+}
+
+.div_style:hover{
+    cursor:pointer;
+}

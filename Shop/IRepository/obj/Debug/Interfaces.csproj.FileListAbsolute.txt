@@ -1,0 +1,35 @@
+c:\users\asus\documents\visual studio 2015\Projects\CarWashes\IRepository\bin\Debug\CoreModels.dll
+c:\users\asus\documents\visual studio 2015\Projects\CarWashes\IRepository\bin\Debug\CoreModels.pdb
+c:\users\asus\documents\visual studio 2015\Projects\CarWashes\IRepository\bin\Debug\Interfaces.dll
+c:\users\asus\documents\visual studio 2015\Projects\CarWashes\IRepository\bin\Debug\Interfaces.pdb
+c:\users\asus\documents\visual studio 2015\Projects\CarWashes\IRepository\obj\Debug\Interfaces.dll
+c:\users\asus\documents\visual studio 2015\Projects\CarWashes\IRepository\obj\Debug\Interfaces.pdb
+C:\Users\ASUS\Documents\Visual Studio 2015\Projects\CarWashes\IRepository\obj\Debug\Interfaces.csprojResolveAssemblyReference.cache
+D:\Антон\Программирование\CarWash\CarWashes\IRepository\bin\Debug\Interfaces.dll
+D:\Антон\Программирование\CarWash\CarWashes\IRepository\bin\Debug\Interfaces.pdb
+D:\Антон\Программирование\CarWash\CarWashes\IRepository\bin\Debug\CoreModels.dll
+D:\Антон\Программирование\CarWash\CarWashes\IRepository\bin\Debug\CoreModels.pdb
+D:\Антон\Программирование\CarWash\CarWashes\IRepository\obj\Debug\Interfaces.csprojResolveAssemblyReference.cache
+D:\Антон\Программирование\CarWash\CarWashes\IRepository\obj\Debug\Interfaces.dll
+D:\Антон\Программирование\CarWash\CarWashes\IRepository\obj\Debug\Interfaces.pdb
+D:\Антон\Программирование\ShopForDiana\CarWashes\IRepository\bin\Debug\Interfaces.dll
+D:\Антон\Программирование\ShopForDiana\CarWashes\IRepository\bin\Debug\Interfaces.pdb
+D:\Антон\Программирование\ShopForDiana\CarWashes\IRepository\bin\Debug\CoreModels.dll
+D:\Антон\Программирование\ShopForDiana\CarWashes\IRepository\bin\Debug\CoreModels.pdb
+D:\Антон\Программирование\ShopForDiana\CarWashes\IRepository\obj\Debug\Interfaces.csprojResolveAssemblyReference.cache
+D:\Антон\Программирование\ShopForDiana\CarWashes\IRepository\obj\Debug\Interfaces.dll
+D:\Антон\Программирование\ShopForDiana\CarWashes\IRepository\obj\Debug\Interfaces.pdb
+D:\Антон\Программирование\ShopForDiana\Shop\IRepository\bin\Debug\Interfaces.dll
+D:\Антон\Программирование\ShopForDiana\Shop\IRepository\bin\Debug\Interfaces.pdb
+D:\Антон\Программирование\ShopForDiana\Shop\IRepository\bin\Debug\CoreModels.dll
+D:\Антон\Программирование\ShopForDiana\Shop\IRepository\bin\Debug\CoreModels.pdb
+D:\Антон\Программирование\ShopForDiana\Shop\IRepository\obj\Debug\Interfaces.dll
+D:\Антон\Программирование\ShopForDiana\Shop\IRepository\obj\Debug\Interfaces.pdb
+D:\Антон\Программирование\ShopForDiana\Shop\IRepository\obj\Debug\Interfaces.csprojResolveAssemblyReference.cache
+C:\Users\AntonRez\Documents\HomeTask\GitRepo\ShopForDiana\Shop\IRepository\bin\Debug\Interfaces.dll
+C:\Users\AntonRez\Documents\HomeTask\GitRepo\ShopForDiana\Shop\IRepository\bin\Debug\Interfaces.pdb
+C:\Users\AntonRez\Documents\HomeTask\GitRepo\ShopForDiana\Shop\IRepository\bin\Debug\CoreModels.dll
+C:\Users\AntonRez\Documents\HomeTask\GitRepo\ShopForDiana\Shop\IRepository\bin\Debug\CoreModels.pdb
+C:\Users\AntonRez\Documents\HomeTask\GitRepo\ShopForDiana\Shop\IRepository\obj\Debug\Interfaces.csprojResolveAssemblyReference.cache
+C:\Users\AntonRez\Documents\HomeTask\GitRepo\ShopForDiana\Shop\IRepository\obj\Debug\Interfaces.dll
+C:\Users\AntonRez\Documents\HomeTask\GitRepo\ShopForDiana\Shop\IRepository\obj\Debug\Interfaces.pdb

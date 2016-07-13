@@ -1,0 +1,22 @@
+c:\users\asus\documents\visual studio 2015\Projects\CarWashes\CoreModels\bin\Debug\CoreModels.dll
+c:\users\asus\documents\visual studio 2015\Projects\CarWashes\CoreModels\bin\Debug\CoreModels.pdb
+c:\users\asus\documents\visual studio 2015\Projects\CarWashes\CoreModels\obj\Debug\CoreModels.dll
+c:\users\asus\documents\visual studio 2015\Projects\CarWashes\CoreModels\obj\Debug\CoreModels.pdb
+D:\Антон\Программирование\CarWash\CarWashes\CoreModels\bin\Debug\CoreModels.dll
+D:\Антон\Программирование\CarWash\CarWashes\CoreModels\bin\Debug\CoreModels.pdb
+D:\Антон\Программирование\CarWash\CarWashes\CoreModels\obj\Debug\CoreModels.dll
+D:\Антон\Программирование\CarWash\CarWashes\CoreModels\obj\Debug\CoreModels.pdb
+D:\Антон\Программирование\ShopForDiana\CarWashes\CoreModels\bin\Debug\CoreModels.dll
+D:\Антон\Программирование\ShopForDiana\CarWashes\CoreModels\bin\Debug\CoreModels.pdb
+D:\Антон\Программирование\ShopForDiana\CarWashes\CoreModels\obj\Debug\CoreModels.dll
+D:\Антон\Программирование\ShopForDiana\CarWashes\CoreModels\obj\Debug\CoreModels.pdb
+D:\Антон\Программирование\ShopForDiana\Shop\CoreModels\bin\Debug\CoreModels.dll
+D:\Антон\Программирование\ShopForDiana\Shop\CoreModels\bin\Debug\CoreModels.pdb
+D:\Антон\Программирование\ShopForDiana\Shop\CoreModels\obj\Debug\CoreModels.dll
+D:\Антон\Программирование\ShopForDiana\Shop\CoreModels\obj\Debug\CoreModels.pdb
+D:\Антон\Программирование\ShopForDiana\Shop\CoreModels\obj\Debug\CoreModels.csprojResolveAssemblyReference.cache
+C:\Users\AntonRez\Documents\HomeTask\GitRepo\ShopForDiana\Shop\CoreModels\bin\Debug\CoreModels.dll
+C:\Users\AntonRez\Documents\HomeTask\GitRepo\ShopForDiana\Shop\CoreModels\bin\Debug\CoreModels.pdb
+C:\Users\AntonRez\Documents\HomeTask\GitRepo\ShopForDiana\Shop\CoreModels\obj\Debug\CoreModels.csprojResolveAssemblyReference.cache
+C:\Users\AntonRez\Documents\HomeTask\GitRepo\ShopForDiana\Shop\CoreModels\obj\Debug\CoreModels.dll
+C:\Users\AntonRez\Documents\HomeTask\GitRepo\ShopForDiana\Shop\CoreModels\obj\Debug\CoreModels.pdb

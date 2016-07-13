@@ -1,8 +1,0 @@
-c:\users\asus\documents\visual studio 2015\Projects\CarWashes\CoreModels\bin\Debug\CoreModels.dll
-c:\users\asus\documents\visual studio 2015\Projects\CarWashes\CoreModels\bin\Debug\CoreModels.pdb
-c:\users\asus\documents\visual studio 2015\Projects\CarWashes\CoreModels\obj\Debug\CoreModels.dll
-c:\users\asus\documents\visual studio 2015\Projects\CarWashes\CoreModels\obj\Debug\CoreModels.pdb
-D:\Антон\Программирование\CarWash\CarWashes\CoreModels\bin\Debug\CoreModels.dll
-D:\Антон\Программирование\CarWash\CarWashes\CoreModels\bin\Debug\CoreModels.pdb
-D:\Антон\Программирование\CarWash\CarWashes\CoreModels\obj\Debug\CoreModels.dll
-D:\Антон\Программирование\CarWash\CarWashes\CoreModels\obj\Debug\CoreModels.pdb
