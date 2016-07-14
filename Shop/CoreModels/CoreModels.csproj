@@ -40,9 +40,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="BaseProduct.cs" />
+    <Compile Include="Product.cs" />
     <Compile Include="Category.cs" />
-    <Compile Include="ChildClothes.cs" />
     <Compile Include="Color.cs" />
     <Compile Include="Size.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

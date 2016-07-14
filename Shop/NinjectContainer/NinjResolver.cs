@@ -37,6 +37,8 @@ namespace NinjectContainer
         {
             _kernel.Bind<IUnitOfWork>().To<UnitOfWork>();
             _kernel.Bind<IService<CategoryDTO>>().To<CategoryService>();
+            _kernel.Bind<IService<ProductDTO>>().To<ProductService>();
+            _kernel.Bind<IService<SizeDTO>>().To<SizeService>();
         }
     }
 }

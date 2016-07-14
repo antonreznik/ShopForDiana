@@ -4,14 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CoreModels
+namespace DTOmodels
 {
-    public class Color
+    public class SizeDTO
     {
         public int Id { get; set; }
         public string Name { get; set; }
-        public byte[] Image { get; set; }
-        public bool IsAvailable { get; set; }
-        public virtual IEnumerable<Size> Sizes { get; set; }
+        public IEnumerable<ColorDTO> Colors { get; set; }
     }
 }
