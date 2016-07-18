@@ -1,4 +1,4 @@
-﻿@model ViewModels.CategoryViewModel
+﻿@model ViewModels.SizeViewModel
 
 <div class="row">
     @using (Html.BeginForm())
@@ -11,6 +11,6 @@
             @Html.ValidationMessageFor(model => model.Name, "", new { @class = "red-text text-darken-1" })
         </div>
         <br />
-        <input type="submit" value="Create" class="btn" id="create_category_button" />
+        <input type="submit" value="Create" class="btn" id="create_size_button" />
     }
 </div>
