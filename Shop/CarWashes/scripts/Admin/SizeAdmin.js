@@ -13,13 +13,18 @@
                     //add event listener on create size button in modal window
                     document.getElementById("create_size_button").addEventListener("click", function () {
                         event.preventDefault();
-                        let size = $("#Name").value;
+                        let size = $("#sizeName").val();
                         $.ajax({
                             url: "/Size/CreateSize",
                             method: "POST",
-                            data: size,
+                            data: { "Name": size },
                             success: function (result) {
-                                $("#modal_content").html(result);
+                                if (result.indexOf("form") > 0) {
+                                    $("#modal_content").html(result);
+                                }
+                                else {
+                                    $("#modal_window").closeModal();
+                                }
                             }
                         })
                     });

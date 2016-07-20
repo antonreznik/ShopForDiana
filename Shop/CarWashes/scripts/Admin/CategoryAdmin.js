@@ -14,13 +14,19 @@
                     //add event listener on create category button in modal window
                     document.getElementById("create_category_button").addEventListener("click", function () {
                         event.preventDefault();
-                        let category = $("#Name").value;
+                        let category = $("#categoryName").val();
                         $.ajax({
                             url: "/Category/CreateCategory",
                             method: "POST",
-                            data: category,
+                            data: { "Name": category },
                             success: function (result) {
-                                $("#modal_content").html(result);                               
+                                if (result.indexOf("form") > 0) {
+                                    $("#modal_content").html(result);
+                                }
+                                else {
+                                    $("#modal_window").closeModal();
+                                }
+                                                               
                             }
                         })
                     });
