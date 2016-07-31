@@ -35,12 +35,12 @@ namespace ServicesDTO
 
         public IEnumerable<SizeDTO> GetAll()
         {
-            throw new NotImplementedException();
+            return _mapper.Map<IEnumerable<SizeDTO>>(_unitOfWork.SizeRepository.GetAll());
         }
 
         public void Update(SizeDTO model)
         {
-            throw new NotImplementedException();
+            _unitOfWork.SizeRepository.Update(_mapper.Map<Size>(model));
         }
 
         public void Visibility(SizeDTO model)

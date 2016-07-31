@@ -36,7 +36,12 @@ namespace DataAccess
 
         public void Update(Size model)
         {
-            throw new NotImplementedException();
+            var sizeFromBase = GetOne(model.Id);
+            if (sizeFromBase != null)
+            {
+                sizeFromBase.Name = model.Name;
+                _context.SaveChanges();
+            }
         }
 
         public void Visibility(Size model)

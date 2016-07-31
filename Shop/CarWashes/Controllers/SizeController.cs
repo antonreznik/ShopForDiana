@@ -41,5 +41,24 @@ namespace Shop.Controllers
 
             return View();
         }
+
+        [Authorize]
+        public ActionResult UpdateSize()
+        {
+            return View(_mapper.Map<IEnumerable<SizeViewModel>>(_sizeService.GetAll()));
+        }
+
+        [Authorize]
+        [HttpPost]
+        public ActionResult UpdateSize(SizeViewModel sizeModel)
+        {
+            if (ModelState.IsValid)
+            {
+                _sizeService.Update(_mapper.Map<SizeDTO>(sizeModel));
+                return RedirectToAction("UpdateSize", "Size");
+            }
+
+            return View();
+        }
     }
 }
