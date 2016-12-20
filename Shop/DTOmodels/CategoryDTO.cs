@@ -11,5 +11,6 @@ namespace DTOmodels
         public int Id { get; set; }
         public string Name { get; set; }
         public bool IsShown { get; set; }
+        public IEnumerable<SubCategoryDTO> SubCategories { get; set; }
     }
 }

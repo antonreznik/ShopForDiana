@@ -14,5 +14,6 @@ namespace Context
         public DbSet<Category> ProductCategories { get; set; }
         public DbSet <Product> Products { get; set; }
         public DbSet<Size> Sizes { get; set; }
+        public DbSet<SubCategory> ProductSubCategories { get; set; }
     }
 }

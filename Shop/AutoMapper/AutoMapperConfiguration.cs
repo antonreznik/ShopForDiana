@@ -34,6 +34,9 @@ namespace AutoMapperConfig
 
                 cfg.CreateMap<SizeViewModel, SizeDTO>();
                 cfg.CreateMap<SizeDTO, SizeViewModel>();
+
+                cfg.CreateMap<SubCategoryDTO, SubCategory>();
+                cfg.CreateMap<SubCategory, SubCategoryDTO>();
             });
         }
 

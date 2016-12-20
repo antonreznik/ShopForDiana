@@ -32,3 +32,4 @@ C:\Users\AntonRez\Documents\HomeTask\GitRepo\ShopForDiana\Shop\IRepository\bin\D
 C:\Users\AntonRez\Documents\HomeTask\GitRepo\ShopForDiana\Shop\IRepository\obj\Debug\Interfaces.csprojResolveAssemblyReference.cache
 C:\Users\AntonRez\Documents\HomeTask\GitRepo\ShopForDiana\Shop\IRepository\obj\Debug\Interfaces.dll
 C:\Users\AntonRez\Documents\HomeTask\GitRepo\ShopForDiana\Shop\IRepository\obj\Debug\Interfaces.pdb
+D:\Антон\Программирование\ShopForDiana\Shop\IRepository\obj\Debug\Interfaces.csprojResolveAssemblyReference.cache

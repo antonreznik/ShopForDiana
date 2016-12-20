@@ -48,6 +48,7 @@
     <Compile Include="ProductService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SizeService.cs" />
+    <Compile Include="SubCategoryService.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\AutoMapper\AutoMapperConfig.csproj">

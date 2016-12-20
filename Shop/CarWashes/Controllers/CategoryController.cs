@@ -73,5 +73,17 @@ namespace Shop.Controllers
             _categoryService.Visibility(_mapper.Map<CategoryDTO>(category));
             return RedirectToAction("ShowHideCategory", "Category");
         }
+
+        public ActionResult GetDropDownListOfAllCategories()
+        {
+            var categories = _mapper.Map<IEnumerable<CategoryViewModel>>(_categoryService.GetAll());
+            var list = new List<SelectListItem>();
+            foreach(var category in categories)
+            {
+                list.Add(new SelectListItem { Text = category.Name, Value = category.Id.ToString() });
+            }
+
+            return View(list);
+        }
     }
 }
