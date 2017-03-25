@@ -9,7 +9,7 @@ namespace ViewModels
 {
     public class SubCategoryViewModel
     {
-        public int Id { get; set; }
+        public int SubCategoryId { get; set; }
 
         [Required(ErrorMessage = "Введите наименование подкатегории")]
         [Display(Name = "Enter new subcategory name")]

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Interfaces
 {
-    public interface IRepository<T>
+    public interface IRepository<T> where T : class
     {
         void Create(T model);
         T GetOne(int id);

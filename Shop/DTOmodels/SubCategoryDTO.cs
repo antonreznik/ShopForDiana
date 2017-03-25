@@ -8,9 +8,10 @@ namespace DTOmodels
 {
     public class SubCategoryDTO
     {
-        public int Id { get; set; }
+        public int SubCategoryId { get; set; }
         public string Name { get; set; }
         public bool IsShown { get; set; }
+        public int CategoryId { get; set; }
         public IEnumerable<ProductDTO> Products { get; set; }
     }
 }

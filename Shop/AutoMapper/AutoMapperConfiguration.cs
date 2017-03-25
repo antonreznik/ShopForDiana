@@ -37,6 +37,9 @@ namespace AutoMapperConfig
 
                 cfg.CreateMap<SubCategoryDTO, SubCategory>();
                 cfg.CreateMap<SubCategory, SubCategoryDTO>();
+
+                cfg.CreateMap<SubCategoryViewModel, SubCategoryDTO>();
+                cfg.CreateMap<SubCategoryDTO, SubCategoryViewModel>();
             });
         }
 

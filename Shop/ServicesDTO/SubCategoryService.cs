@@ -16,16 +16,19 @@ namespace ServicesDTO
     {
         private IUnitOfWork _unitOfWork;
         private IMapper _mapper;
+        private IRepository<SubCategory> _repository;
 
-        public SubCategoryService(IUnitOfWork unitOfWork)
+        public SubCategoryService(IUnitOfWork unitOfWork, IRepository<SubCategory> repository)
         {
             this._unitOfWork = unitOfWork;
             _mapper = AutoMapperConfiguration.GetMapper();
+            _repository = repository;
         }
 
         public void Create(SubCategoryDTO model)
         {
-            _unitOfWork.SubCategoryRepository.Create(_mapper.Map<SubCategory>(model));
+            //_unitOfWork.SubCategoryRepository.Create(_mapper.Map<SubCategory>(model));
+            _repository.Create(_mapper.Map<SubCategory>(model));
         }
 
         public IEnumerable<SubCategoryDTO> GetAll()

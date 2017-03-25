@@ -31,12 +31,12 @@ namespace DataAccess
 
         public Size GetOne(int id)
         {
-            return _context.Sizes.FirstOrDefault(x => x.Id == id);
+            return _context.Sizes.FirstOrDefault(x => x.SizeId == id);
         }
 
         public void Update(Size model)
         {
-            var sizeFromBase = GetOne(model.Id);
+            var sizeFromBase = GetOne(model.SizeId);
             if (sizeFromBase != null)
             {
                 sizeFromBase.Name = model.Name;
@@ -46,7 +46,7 @@ namespace DataAccess
 
         public void Visibility(Size model)
         {
-            var sizeFromBase = GetOne(model.Id);
+            var sizeFromBase = GetOne(model.SizeId);
             if (sizeFromBase != null)
             {
                 sizeFromBase.IsAvailable = model.IsAvailable;

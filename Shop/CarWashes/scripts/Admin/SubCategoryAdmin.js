@@ -27,7 +27,6 @@
                                 else {
                                     $("#modal_window").closeModal();
                                 }
-
                             }
                         })
                     });

@@ -58,8 +58,6 @@ D:\Антон\Программирование\ShopForDiana\Shop\Context\bin\Deb
 D:\Антон\Программирование\ShopForDiana\Shop\Context\obj\Debug\Context.csprojResolveAssemblyReference.cache
 D:\Антон\Программирование\ShopForDiana\Shop\Context\obj\Debug\Context.dll
 D:\Антон\Программирование\ShopForDiana\Shop\Context\obj\Debug\Context.pdb
-D:\Антон\Программирование\ShopForDiana\Shop\Context\obj\Debug\Context.Migrations.InitialCreate.resources
-D:\Антон\Программирование\ShopForDiana\Shop\Context\obj\Debug\Context.csproj.GenerateResource.Cache
 C:\Users\AntonRez\Documents\HomeTask\GitRepo\ShopForDiana\Shop\Context\bin\Debug\Context.dll.config
 C:\Users\AntonRez\Documents\HomeTask\GitRepo\ShopForDiana\Shop\Context\bin\Debug\Context.dll
 C:\Users\AntonRez\Documents\HomeTask\GitRepo\ShopForDiana\Shop\Context\bin\Debug\Context.pdb

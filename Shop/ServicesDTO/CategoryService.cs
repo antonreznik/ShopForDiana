@@ -16,22 +16,25 @@ namespace ServicesDTO
     {
         private IUnitOfWork _unitOfWork;
         private IMapper _mapper;
+        private IRepository<Category> _repository;
 
-        public CategoryService(IUnitOfWork unitOfWork)
+        public CategoryService(IUnitOfWork unitOfWork, IRepository<Category> repository)
         {
             this._unitOfWork = unitOfWork;
             _mapper = AutoMapperConfiguration.GetMapper();
+            _repository = repository;
         }
 
         public void Create(CategoryDTO model)
-        {
-            _unitOfWork.CategoryRepository.Create(_mapper.Map<Category>(model));
+        {          
+            _repository.Create(_mapper.Map<Category>(model));
         }
 
         
         public IEnumerable<CategoryDTO> GetAll()
         {
-            return _mapper.Map<IEnumerable<CategoryDTO>>(_unitOfWork.CategoryRepository.GetAll().ToList());
+            return _mapper.Map<IEnumerable<CategoryDTO>>(_repository.GetAll().ToList());
+            //return _mapper.Map<IEnumerable<CategoryDTO>>(_unitOfWork.CategoryRepository.GetAll().ToList());
         }
 
         public CategoryDTO GetOne(object id)
@@ -41,12 +44,14 @@ namespace ServicesDTO
 
         public void Update(CategoryDTO model)
         {
-            _unitOfWork.CategoryRepository.Update(_mapper.Map<Category>(model));
+            //_unitOfWork.CategoryRepository.Update(_mapper.Map<Category>(model));
+            _repository.Update(_mapper.Map<Category>(model));
         }
 
         public void Visibility(CategoryDTO model)
         {
-            _unitOfWork.CategoryRepository.Visibility(_mapper.Map<Category>(model));
+            //_unitOfWork.CategoryRepository.Visibility(_mapper.Map<Category>(model));
+            _repository.Update(_mapper.Map<Category>(model));
         }
     }
 }

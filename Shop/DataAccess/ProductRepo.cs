@@ -31,7 +31,7 @@ namespace DataAccess
 
         public Product GetOne(int id)
         {
-            return _context.Products.FirstOrDefault(x => x.Id == id);
+            return _context.Products.FirstOrDefault(x => x.ProductId == id);
         }
 
         public void Update(Product model)
@@ -41,7 +41,7 @@ namespace DataAccess
 
         public void Visibility(Product model)
         {
-            var productFromBase = GetOne(model.Id);
+            var productFromBase = GetOne(model.ProductId);
             if(productFromBase != null)
             {
                 productFromBase.IsAvailable = model.IsAvailable;

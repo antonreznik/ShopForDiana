@@ -8,7 +8,7 @@ namespace DTOmodels
 {
     public class SizeDTO
     {
-        public int Id { get; set; }
+        public int SizeId { get; set; }
         public string Name { get; set; }
         public bool IsAvailable { get; set; }
     }

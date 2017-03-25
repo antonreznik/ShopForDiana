@@ -10,8 +10,8 @@ D:\Антон\Программирование\ShopForDiana\Shop\ViewModels\bin\
 D:\Антон\Программирование\ShopForDiana\Shop\ViewModels\bin\Debug\ViewModels.pdb
 D:\Антон\Программирование\ShopForDiana\Shop\ViewModels\obj\Debug\ViewModels.dll
 D:\Антон\Программирование\ShopForDiana\Shop\ViewModels\obj\Debug\ViewModels.pdb
-D:\Антон\Программирование\ShopForDiana\Shop\ViewModels\obj\Debug\ViewModels.csprojResolveAssemblyReference.cache
 C:\Users\AntonRez\Documents\HomeTask\GitRepo\ShopForDiana\Shop\ViewModels\bin\Debug\ViewModels.dll
 C:\Users\AntonRez\Documents\HomeTask\GitRepo\ShopForDiana\Shop\ViewModels\bin\Debug\ViewModels.pdb
 C:\Users\AntonRez\Documents\HomeTask\GitRepo\ShopForDiana\Shop\ViewModels\obj\Debug\ViewModels.dll
 C:\Users\AntonRez\Documents\HomeTask\GitRepo\ShopForDiana\Shop\ViewModels\obj\Debug\ViewModels.pdb
+D:\Антон\Программирование\ShopForDiana\Shop\ViewModels\obj\Debug\ViewModels.csprojResolveAssemblyReference.cache

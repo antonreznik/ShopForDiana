@@ -65,7 +65,7 @@
             $.ajax({
                 url: "/Category/UpdateCategory",
                 method: "POST",
-                data: { "Id": inputDataAttr, "Name": input.value }
+                data: { "CategoryId": inputDataAttr, "Name": input.value, "IsShown": input.dataset.visible}
             })
         }
 
@@ -90,10 +90,11 @@
         let switchEventListener = function (event) {
             let switchObject = event.currentTarget;
             let inputDataAttr = switchObject.dataset.checkbox;
+            let input = document.querySelector(`input[data-input="${inputDataAttr}"]`);
             $.ajax({
                 method:"POST",
                 url: "/Category/ShowHideCategory",
-                data: { "Id": inputDataAttr, "IsShown": switchObject.checked }
+                data: { "CategoryId": inputDataAttr, "Name": input.value, "IsShown": switchObject.checked }
             })
         }
         document.getElementById("show_hide_category").addEventListener("click", function () {

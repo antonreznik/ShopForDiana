@@ -9,7 +9,7 @@ namespace ViewModels
 {
     public class SizeViewModel
     {
-        public int Id { get; set; }
+        public int SizeId { get; set; }
 
         [Required(ErrorMessage = "Введите наименование размера")]
         [Display(Name = "Enter new size")]

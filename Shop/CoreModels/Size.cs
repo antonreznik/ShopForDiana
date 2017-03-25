@@ -8,7 +8,7 @@ namespace CoreModels
 {
     public class Size
     {
-        public int Id { get; set; }
+        public int SizeId { get; set; }
         public string Name { get; set; }
         public bool IsAvailable { get; set; }
         public virtual IEnumerable<Product> Products { get; set; }

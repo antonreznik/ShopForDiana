@@ -63,7 +63,7 @@
             $.ajax({
                 url: "/Size/UpdateSize",
                 method: "POST",
-                data: { "Id": inputDataAttr, "Name": input.value }
+                data: { "SizeId": inputDataAttr, "Name": input.value }
             })
         }
 

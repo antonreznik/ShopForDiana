@@ -40,6 +40,7 @@ namespace NinjectContainer
             _kernel.Bind<IService<ProductDTO>>().To<ProductService>();
             _kernel.Bind<IService<SizeDTO>>().To<SizeService>();
             _kernel.Bind<IService<SubCategoryDTO>>().To<SubCategoryService>();
+            _kernel.Bind(typeof(IRepository<>)).To(typeof(GenericRepository<>));
         }
     }
 }

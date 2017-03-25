@@ -8,9 +8,12 @@ namespace CoreModels
 {
     public class SubCategory
     {
-        public int Id { get; set; }
+        public int SubCategoryId { get; set; }
         public string Name { get; set; }
         public bool IsShown { get; set; }
         public virtual IEnumerable<Product> Products { get; set; }
+
+        public Category Category { get; set; }
+        public int CategoryId { get; set; }
     }
 }

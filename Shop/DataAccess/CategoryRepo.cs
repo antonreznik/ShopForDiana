@@ -32,12 +32,12 @@ namespace DataAccess
 
         public Category GetOne(int id)
         {
-            return _context.ProductCategories.FirstOrDefault(x => x.Id == id);
+            return _context.ProductCategories.FirstOrDefault(x => x.CategoryId == id);
         }
 
         public void Update(Category model)
         {
-            var categoryFromBase = GetOne(model.Id);
+            var categoryFromBase = GetOne(model.CategoryId);
             if (categoryFromBase != null)
             {
                 categoryFromBase.Name = model.Name;
@@ -47,7 +47,7 @@ namespace DataAccess
 
         public void Visibility(Category model)
         {
-            var categoryFromBase = GetOne(model.Id);
+            var categoryFromBase = GetOne(model.CategoryId);
             if (categoryFromBase != null)
             {
                 categoryFromBase.IsShown = model.IsShown;
