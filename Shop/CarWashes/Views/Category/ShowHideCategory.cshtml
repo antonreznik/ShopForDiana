@@ -5,14 +5,14 @@
         @foreach (var item in Model)
         {
             <div class="input-field col s7">
-                <input disabled value="@item.Name" data-input="@item.Id" type="text" class="validate">
+                <input disabled value="@item.Name" data-input="@item.CategoryId" type="text" class="validate">
                 <label for="disabled" class="active">Change category name</label>
             </div>
 
             <div class="switch">
                 <label>
                     Hide
-                    <input type="checkbox" checked="@item.IsShown" data-checkbox="@item.Id">
+                    <input type="checkbox" checked="@item.IsShown" data-checkbox="@item.CategoryId">
                     <span class="lever"></span>
                     Show
                 </label>

@@ -9,11 +9,12 @@ namespace ViewModels
 {
     public class CategoryViewModel
     {
-        public int Id { get; set; }
+        public int CategoryId { get; set; }
 
         [Required(ErrorMessage = "Введите наименование категории")]
         [Display(Name="Enter new category name")]
         public string Name { get; set; }
         public bool IsShown { get; set; }
+        public IEnumerable<SubCategoryViewModel> SubCategories { get; set; }
     }
 }

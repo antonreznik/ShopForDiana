@@ -1,0 +1,19 @@
+﻿@model IEnumerable<ViewModels.SizeViewModel>
+
+<div class="row">
+    <div class="col s10">
+        @foreach (var item in Model)
+        {
+            <div class="input-field col s7">
+                <input disabled value="@item.Name" data-input="@item.SizeId" type="text" class="validate">
+                <label for="disabled" class="active">Change category name</label>
+            </div>
+            <br />
+            <button class="btn col s2" value="editButton" data-editbtn="@item.SizeId">Edit</button>
+            <button class="btn col s2 offset-s1 disabled" value="saveButton" data-savebtn="@item.SizeId">Save</button>
+            <br />
+            <br />
+            <br />
+        }
+    </div>
+</div>

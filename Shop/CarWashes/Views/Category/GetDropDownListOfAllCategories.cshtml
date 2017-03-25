@@ -1,0 +1,10 @@
+﻿@model IEnumerable<SelectListItem>
+<div class="input-field col s12">
+    @Html.DropDownList("Categories", Model, "--Select category--")
+</div>
+
+<script>
+$(document).ready(function() {
+    $('select').material_select();
+});
+</script>

@@ -5,12 +5,12 @@
         @foreach (var item in Model)
         {
             <div class="input-field col s7">
-                <input disabled value="@item.Name" data-input="@item.Id" type="text" class="validate">
+                <input disabled value="@item.Name" data-input="@item.CategoryId" data-visible="@item.IsShown" type="text" class="validate">
                 <label for="disabled" class="active">Change category name</label>
             </div>     
             <br />
-            <button class="btn col s2" value="editButton" data-editbtn="@item.Id">Edit</button>
-            <button class="btn col s2 offset-s1 disabled" value="saveButton" data-savebtn="@item.Id">Save</button>
+            <button class="btn col s2" value="editButton" data-editbtn="@item.CategoryId">Edit</button>
+            <button class="btn col s2 offset-s1 disabled" value="saveButton" data-savebtn="@item.CategoryId">Save</button>
             <br />
             <br />
             <br />

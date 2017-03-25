@@ -50,11 +50,6 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="EFContext.cs" />
-    <Compile Include="Migrations\201606262008228_InitialCreate.cs" />
-    <Compile Include="Migrations\201606262008228_InitialCreate.Designer.cs">
-      <DependentUpon>201606262008228_InitialCreate.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -66,11 +61,6 @@
       <Project>{ff9895c7-1cf8-4c93-87b6-43e430c0cc02}</Project>
       <Name>CoreModels</Name>
     </ProjectReference>
-  </ItemGroup>
-  <ItemGroup>
-    <EmbeddedResource Include="Migrations\201606262008228_InitialCreate.resx">
-      <DependentUpon>201606262008228_InitialCreate.cs</DependentUpon>
-    </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

@@ -44,6 +44,7 @@ namespace Shop.Controllers
         [Authorize]
         public ActionResult UpdateCategory()
         {
+            var x = _mapper.Map<IEnumerable<CategoryViewModel>>(_categoryService.GetAll());
             return View(_mapper.Map<IEnumerable<CategoryViewModel>>(_categoryService.GetAll()));
         }
 
@@ -72,6 +73,18 @@ namespace Shop.Controllers
         {
             _categoryService.Visibility(_mapper.Map<CategoryDTO>(category));
             return RedirectToAction("ShowHideCategory", "Category");
+        }
+
+        public ActionResult GetDropDownListOfAllCategories()
+        {
+            var categories = _mapper.Map<IEnumerable<CategoryViewModel>>(_categoryService.GetAll());
+            var list = new List<SelectListItem>();
+            foreach(var category in categories)
+            {
+                list.Add(new SelectListItem { Text = category.Name, Value = category.CategoryId.ToString() });
+            }
+
+            return View(list);
         }
     }
 }

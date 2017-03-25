@@ -14,13 +14,19 @@
                     //add event listener on create category button in modal window
                     document.getElementById("create_category_button").addEventListener("click", function () {
                         event.preventDefault();
-                        let category = $("#Name").value;
+                        let category = $("#categoryName").val();
                         $.ajax({
                             url: "/Category/CreateCategory",
                             method: "POST",
-                            data: category,
+                            data: { "Name": category },
                             success: function (result) {
-                                $("#modal_content").html(result);                               
+                                if (result.indexOf("form") > 0) {
+                                    $("#modal_content").html(result);
+                                }
+                                else {
+                                    $("#modal_window").closeModal();
+                                }
+                                                               
                             }
                         })
                     });
@@ -59,7 +65,7 @@
             $.ajax({
                 url: "/Category/UpdateCategory",
                 method: "POST",
-                data: { "Id": inputDataAttr, "Name": input.value }
+                data: { "CategoryId": inputDataAttr, "Name": input.value, "IsShown": input.dataset.visible}
             })
         }
 
@@ -84,10 +90,11 @@
         let switchEventListener = function (event) {
             let switchObject = event.currentTarget;
             let inputDataAttr = switchObject.dataset.checkbox;
+            let input = document.querySelector(`input[data-input="${inputDataAttr}"]`);
             $.ajax({
                 method:"POST",
                 url: "/Category/ShowHideCategory",
-                data: { "Id": inputDataAttr, "IsShown": switchObject.checked }
+                data: { "CategoryId": inputDataAttr, "Name": input.value, "IsShown": switchObject.checked }
             })
         }
         document.getElementById("show_hide_category").addEventListener("click", function () {

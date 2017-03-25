@@ -26,7 +26,6 @@ D:\Антон\Программирование\ShopForDiana\Shop\CustomIdentity\
 D:\Антон\Программирование\ShopForDiana\Shop\CustomIdentity\bin\Debug\Newtonsoft.Json.xml
 D:\Антон\Программирование\ShopForDiana\Shop\CustomIdentity\obj\Debug\CustomIdentity.dll
 D:\Антон\Программирование\ShopForDiana\Shop\CustomIdentity\obj\Debug\CustomIdentity.pdb
-D:\Антон\Программирование\ShopForDiana\Shop\CustomIdentity\obj\Debug\CustomIdentity.csprojResolveAssemblyReference.cache
 C:\Users\AntonRez\Documents\HomeTask\GitRepo\ShopForDiana\Shop\CustomIdentity\bin\Debug\CustomIdentity.dll.config
 C:\Users\AntonRez\Documents\HomeTask\GitRepo\ShopForDiana\Shop\CustomIdentity\bin\Debug\CustomIdentity.dll
 C:\Users\AntonRez\Documents\HomeTask\GitRepo\ShopForDiana\Shop\CustomIdentity\bin\Debug\CustomIdentity.pdb

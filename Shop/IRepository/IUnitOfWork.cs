@@ -10,5 +10,8 @@ namespace Interfaces
     public interface IUnitOfWork
     {
         IRepository<Category> CategoryRepository { get; }
+        IRepository<Product> ProductRepository { get; }
+        IRepository<Size> SizeRepository { get; }
+        IRepository<SubCategory> SubCategoryRepository { get; }
     }
 }

@@ -25,7 +25,6 @@ D:\Антон\Программирование\ShopForDiana\Shop\IRepository\bin
 D:\Антон\Программирование\ShopForDiana\Shop\IRepository\bin\Debug\CoreModels.pdb
 D:\Антон\Программирование\ShopForDiana\Shop\IRepository\obj\Debug\Interfaces.dll
 D:\Антон\Программирование\ShopForDiana\Shop\IRepository\obj\Debug\Interfaces.pdb
-D:\Антон\Программирование\ShopForDiana\Shop\IRepository\obj\Debug\Interfaces.csprojResolveAssemblyReference.cache
 C:\Users\AntonRez\Documents\HomeTask\GitRepo\ShopForDiana\Shop\IRepository\bin\Debug\Interfaces.dll
 C:\Users\AntonRez\Documents\HomeTask\GitRepo\ShopForDiana\Shop\IRepository\bin\Debug\Interfaces.pdb
 C:\Users\AntonRez\Documents\HomeTask\GitRepo\ShopForDiana\Shop\IRepository\bin\Debug\CoreModels.dll
@@ -33,3 +32,4 @@ C:\Users\AntonRez\Documents\HomeTask\GitRepo\ShopForDiana\Shop\IRepository\bin\D
 C:\Users\AntonRez\Documents\HomeTask\GitRepo\ShopForDiana\Shop\IRepository\obj\Debug\Interfaces.csprojResolveAssemblyReference.cache
 C:\Users\AntonRez\Documents\HomeTask\GitRepo\ShopForDiana\Shop\IRepository\obj\Debug\Interfaces.dll
 C:\Users\AntonRez\Documents\HomeTask\GitRepo\ShopForDiana\Shop\IRepository\obj\Debug\Interfaces.pdb
+D:\Антон\Программирование\ShopForDiana\Shop\IRepository\obj\Debug\Interfaces.csprojResolveAssemblyReference.cache

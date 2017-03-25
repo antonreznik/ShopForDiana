@@ -180,6 +180,8 @@
     <Content Include="content\materialize\font\material-design-icons\Material-Design-Icons.svg" />
     <Content Include="Global.asax" />
     <Content Include="scripts\Admin\CategoryAdmin.js" />
+    <Content Include="scripts\Admin\SizeAdmin.js" />
+    <Content Include="scripts\Admin\SubCategoryAdmin.js" />
     <Content Include="scripts\ai.0.15.0-build58334.js" />
     <Content Include="scripts\ai.0.15.0-build58334.min.js" />
     <Content Include="content\materialize\font\roboto\Roboto-Thin.woff2" />
@@ -240,6 +242,9 @@
     <Compile Include="Controllers\AdminController.cs" />
     <Compile Include="Controllers\CategoryController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Controllers\ProductController.cs" />
+    <Compile Include="Controllers\SizeController.cs" />
+    <Compile Include="Controllers\SubCategoryController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -262,6 +267,10 @@
       <BrowseToURL>~/Category/UpdateCategory</BrowseToURL>
     </Content>
     <Content Include="Views\Category\ShowHideCategory.cshtml" />
+    <Content Include="Views\Size\CreateSize.cshtml" />
+    <Content Include="Views\Size\UpdateSize.cshtml" />
+    <Content Include="Views\Category\GetDropDownListOfAllCategories.cshtml" />
+    <Content Include="Views\SubCategory\CreateSubCategory.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -298,7 +307,9 @@
       <Name>ViewModels</Name>
     </ProjectReference>
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <Folder Include="Views\Product\" />
+  </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>

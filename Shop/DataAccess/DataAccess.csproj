@@ -50,6 +50,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="CategoryRepo.cs" />
+    <Compile Include="GenericRepository.cs" />
+    <Compile Include="ProductRepo.cs" />
+    <Compile Include="SizeRepo.cs" />
+    <Compile Include="SubCategoryRepo.cs" />
     <Compile Include="UnitOfWork.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

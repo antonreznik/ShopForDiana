@@ -28,6 +28,18 @@ namespace AutoMapperConfig
 
                 cfg.CreateMap<CategoryViewModel, CategoryDTO>();
                 cfg.CreateMap<CategoryDTO, CategoryViewModel>();
+
+                cfg.CreateMap<SizeDTO, Size>();
+                cfg.CreateMap<Size, SizeDTO>();
+
+                cfg.CreateMap<SizeViewModel, SizeDTO>();
+                cfg.CreateMap<SizeDTO, SizeViewModel>();
+
+                cfg.CreateMap<SubCategoryDTO, SubCategory>();
+                cfg.CreateMap<SubCategory, SubCategoryDTO>();
+
+                cfg.CreateMap<SubCategoryViewModel, SubCategoryDTO>();
+                cfg.CreateMap<SubCategoryDTO, SubCategoryViewModel>();
             });
         }
 

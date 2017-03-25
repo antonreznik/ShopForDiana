@@ -16,6 +16,5 @@ D:\Антон\Программирование\ShopForDiana\Shop\Services\obj\De
 D:\Антон\Программирование\ShopForDiana\Shop\Services\obj\Debug\ServiceInterfaces.pdb
 C:\Users\AntonRez\Documents\HomeTask\GitRepo\ShopForDiana\Shop\Services\bin\Debug\ServiceInterfaces.dll
 C:\Users\AntonRez\Documents\HomeTask\GitRepo\ShopForDiana\Shop\Services\bin\Debug\ServiceInterfaces.pdb
-C:\Users\AntonRez\Documents\HomeTask\GitRepo\ShopForDiana\Shop\Services\obj\Debug\ServiceInterfaces.csprojResolveAssemblyReference.cache
 C:\Users\AntonRez\Documents\HomeTask\GitRepo\ShopForDiana\Shop\Services\obj\Debug\ServiceInterfaces.dll
 C:\Users\AntonRez\Documents\HomeTask\GitRepo\ShopForDiana\Shop\Services\obj\Debug\ServiceInterfaces.pdb
