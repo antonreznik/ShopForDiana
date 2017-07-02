@@ -1,0 +1,28 @@
+﻿{
+  "scripts": {
+    "lib": {
+      "src": []
+    },
+
+    "app": {
+      "src": ["./scripts/admin/*.js" ]
+    },
+    
+    "ScriptsDestinationPath": "./scripts/admin/minifiedScripts"
+  },
+
+  "styles": {
+    "lib": {
+      "src": [ "./node_modules/materialize-css/dist/css/materialize.css" ]
+    },
+
+    "app": {
+      "src": [
+        "./content/admin/*.scss"
+      ]
+    },
+
+    "CssDestinationPath": "./content/minifiedCss/"
+  }
+
+}

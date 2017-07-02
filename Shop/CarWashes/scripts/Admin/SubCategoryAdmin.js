@@ -9,7 +9,7 @@
                 url: "/SubCategory/CreateSubCategory",
                 success: function (result) {
                     $("#modal_content").html(result);
-                    $('#modal_window').width("35%").openModal();
+                    $('#modal_window').width("35%").modal().modal("open");
 
                     //add event listener on create category button in modal window
                     document.getElementById("create_subCategory_button").addEventListener("click", function () {
@@ -25,18 +25,15 @@
                                     $("#modal_content").html(result);
                                 }
                                 else {
-                                    $("#modal_window").closeModal();
+                                    $("#modal_window").modal("close");
                                 }
                             }
                         })
                     });
                 }
             });
-        });
-
-        
+        });        
     }
-
 }
 
 let subCategoryAdmin = new WorkWithSubCategory();
