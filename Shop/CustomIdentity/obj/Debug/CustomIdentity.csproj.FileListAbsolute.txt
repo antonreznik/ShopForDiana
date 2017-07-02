@@ -55,3 +55,4 @@ C:\Users\AntonRez\Documents\HomeTask\GitRepo\ShopForDiana\Shop\CustomIdentity\bi
 C:\Users\AntonRez\Documents\HomeTask\GitRepo\ShopForDiana\Shop\CustomIdentity\obj\Debug\CustomIdentity.csprojResolveAssemblyReference.cache
 C:\Users\AntonRez\Documents\HomeTask\GitRepo\ShopForDiana\Shop\CustomIdentity\obj\Debug\CustomIdentity.dll
 C:\Users\AntonRez\Documents\HomeTask\GitRepo\ShopForDiana\Shop\CustomIdentity\obj\Debug\CustomIdentity.pdb
+D:\Антон\Программирование\ShopForDiana\Shop\CustomIdentity\obj\Debug\CustomIdentity.csprojResolveAssemblyReference.cache

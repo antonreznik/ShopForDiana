@@ -8,7 +8,7 @@
                 url: "/Size/CreateSize",
                 success: function (result) {
                     $("#modal_content").html(result);
-                    $('#modal_window').width("35%").openModal();
+                    $('#modal_window').width("35%").modal().modal("open");
 
                     //add event listener on create size button in modal window
                     document.getElementById("create_size_button").addEventListener("click", function () {
@@ -23,7 +23,7 @@
                                     $("#modal_content").html(result);
                                 }
                                 else {
-                                    $("#modal_window").closeModal();
+                                    $("#modal_window").modal("close");
                                 }
                             }
                         })
@@ -72,7 +72,7 @@
                 url: "/Size/UpdateSize",
                 success: function (result) {
                     $("#modal_content").html(result);
-                    $('#modal_window').width("45%").openModal();
+                    $('#modal_window').width("45%").modal().modal("open");
 
                     //add event listener on every edit button
                     let editButtons = document.querySelectorAll("button[value='editButton']");

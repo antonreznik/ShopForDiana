@@ -3,18 +3,19 @@
 <html>
 <head>
     <meta name="viewport" content="width=device-width" />
-    <link href="~/content/materialize/css/materialize.css" rel="stylesheet" />
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <link href="~/content/AdminStyleSheet.css" rel="stylesheet" />
+    <link href="~/content/minifiedCss/admin-style.min.css" rel="stylesheet" />
 </head>
 <body>
     <div>
         @RenderBody()
     </div>
-    <script src="~/scripts/jquery-2.1.1.min.js"></script>
-    <script src="~/scripts/materialize/materialize.min.js"></script>
-    <script src="~/scripts/Admin/CategoryAdmin.js"></script>
-    <script src="~/scripts/Admin/SizeAdmin.js"></script>
-    <script src="~/scripts/Admin/SubCategoryAdmin.js"></script>
+
+    <script src="~/scripts/lib/jquery.min.js"></script>
+    <script src="~/scripts/lib/materialize.min.js"></script>
+    
+    @RenderSection("JavaScript", false)
+       
 </body>
 </html>
